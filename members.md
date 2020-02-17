@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<h3 style="text-align: center">Rutgers Machine Learning Group (RUML)</h3>
+<h4 style="text-align: center">Rutgers Machine Learning Group</h4>
 
 #### Director
 - [Sungjin Ahn](./index)
