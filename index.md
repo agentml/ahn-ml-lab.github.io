@@ -6,30 +6,6 @@ layout: home
 ---
 
 
-<!--
-<div class="post-home-wrapper">
-<div class="post-with-reference-column-right">
-<figure>
-  <img src="/assets/img/profile_pic.JPG">
-</figure>
-</div>
-<div class="post-with-reference-column-left">
-<h1> Sungjin Ahn </h1>
-<p>
-I am a PhD student in Computer Science at <a href="https://www.umontreal.ca/">Université de Montréal</a>, <a href="http://www.ligum.umontreal.ca/">LIGUM</a>, my research supervisor is <a href="http://www-labs.iro.umontreal.ca/~bmpix/">Mikhail Bessmeltsev</a>.</p>
-<p>
-I am working on geometry processing for sketching and 3D shape recovering, tackling it with both analytical methods and novel machine learning approaches.
-</p>
-[<a href="https://github.com/ivanpuhachov/">github</a>] [<a href="https://www.linkedin.com/in/ivan-puhachov/">Linkedin</a>] [<a href="https://twitter.com/ivanpuhachov">Twitter</a>]
-</div>
-</div>
--->
-
-<!--
-<p><a id="pieter-abbeel"></a></p>
-<h4 id="pieter-abbeel-uc-berkeley-model-based-rl-via-meta-model-free-rl"><a href="http://people.eecs.berkeley.edu/~pabbeel/">Pieter Abbeel</a> (UC Berkeley), “<em>Model-based RL via meta-model-free RL</em>”</h4>
--->
-
 <p><img class="centered-and-cropped-text-wrap" width="150" height="150" src="./assets/img/profile_pic.JPG" alt="Sungjin Ahn" /></p>
 
 
@@ -53,8 +29,8 @@ I'm an Assistant Professor of [Computer Science at Rutgers University](https://c
 - New paper on Sequential Neural Processes is in arXiv
 
 
-### **Publications** 
-[[Google Scholar]](https://scholar.google.com/citations?user=nfHyDeUAAAAJ&hl)  
+### **Publications** / [Google Scholar](https://scholar.google.com/citations?user=nfHyDeUAAAAJ&hl)  
+
 
 
 ### 2020
