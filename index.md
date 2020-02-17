@@ -25,6 +25,13 @@ I am working on geometry processing for sketching and 3D shape recovering, tackl
 </div>
 -->
 
+<!--
+<p><a id="pieter-abbeel"></a></p>
+<h4 id="pieter-abbeel-uc-berkeley-model-based-rl-via-meta-model-free-rl"><a href="http://people.eecs.berkeley.edu/~pabbeel/">Pieter Abbeel</a> (UC Berkeley), “<em>Model-based RL via meta-model-free RL</em>”</h4>
+-->
+
+<p><img class="centered-and-cropped-text-wrap" width="150" height="150" src="./assets/img/profile_pic.JPG" alt="Sungjin Ahn" /></p>
+
 
 
 <!--## Sungjin Ahn-->
