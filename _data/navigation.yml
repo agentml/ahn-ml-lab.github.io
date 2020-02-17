@@ -3,6 +3,8 @@
 main:
 #  - title: "Home"
 #    url: /
+#  - title: "Publication"
+#    url: /pub/
   - title: "RUML"
     url: /members/
   - title: "Teaching"

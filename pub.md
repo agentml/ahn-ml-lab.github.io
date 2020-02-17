@@ -1,57 +1,6 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit whiteglass' home layout instead if you want to make some changes.
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: page
 ---
-
-
-<!--
-<div class="post-home-wrapper">
-<div class="post-with-reference-column-right">
-<figure>
-  <img src="/assets/img/profile_pic.JPG">
-</figure>
-</div>
-<div class="post-with-reference-column-left">
-<h1> Sungjin Ahn </h1>
-<p>
-I am a PhD student in Computer Science at <a href="https://www.umontreal.ca/">Université de Montréal</a>, <a href="http://www.ligum.umontreal.ca/">LIGUM</a>, my research supervisor is <a href="http://www-labs.iro.umontreal.ca/~bmpix/">Mikhail Bessmeltsev</a>.</p>
-<p>
-I am working on geometry processing for sketching and 3D shape recovering, tackling it with both analytical methods and novel machine learning approaches.
-</p>
-[<a href="https://github.com/ivanpuhachov/">github</a>] [<a href="https://www.linkedin.com/in/ivan-puhachov/">Linkedin</a>] [<a href="https://twitter.com/ivanpuhachov">Twitter</a>]
-</div>
-</div>
--->
-
-<!--
-<p><a id="pieter-abbeel"></a></p>
-<h4 id="pieter-abbeel-uc-berkeley-model-based-rl-via-meta-model-free-rl"><a href="http://people.eecs.berkeley.edu/~pabbeel/">Pieter Abbeel</a> (UC Berkeley), “<em>Model-based RL via meta-model-free RL</em>”</h4>
--->
-
-<p><img class="centered-and-cropped-text-wrap" width="150" height="150" src="./assets/img/profile_pic.JPG" alt="Sungjin Ahn" /></p>
-
-
-
-<!--## Sungjin Ahn-->
-
-I'm an Assistant Professor of [Computer Science at Rutgers University](https://cs.rutgers.edu) where I lead the [Rutgers Machine Learning Group](./members/) (RUML). My current research focus is how an artificial agent can **learn to build models of the world** in an unsupervised and compositional way. My approach to achieving this is based on deep learning, probabilistic modeling, reinforcement learning, and inspiration from cognitive & neuroscience. I received my Ph.D. at the [University of California, Irvine](https://uci.edu) on the study of scalable approximate Bayesian inference under the supervision of Prof. [Max Welling](https://staff.fnwi.uva.nl/m.welling/). I did my postdoc working on deep learning at [MILA](https://mila.quebec/en/) under Prof. [Yoshua Bengio](https://yoshuabengio.org/). Then, I joined Rutgers University in Fall 2018.
-
-**Email**: sjn.[last_name] at gmail  
-**Address**: CBIM 9, 617 Bowser Rd, Piscataway, NJ 08854
-
-
-### **News**
-- I'll be visiting DeepMind in March to give a talk
-- I'm serving as an Area Chair for UAI 2020
-- 2 papers accepted in ICLR 2020
-- Teaching [CS 536: Machine Learning](https://hackmd.io/@Tn97A1U0QG6gBtFPXRh4oQ/B1sZLO55r) in Spring 2020
-- New paper on Generative Hierarchical Models for Parts, Objects, and Scenes is now in arXiv
-- 3 papers accepted in NeurIPS 2019 including one spotlight paper
-- Learning Single-View 3D Reconstruction with Adversarial Training is accepted to ICCV 2019 as an oral presentation
-- New paper on Sequential Neural Processes is in arXiv
-
 
 ### **Publications** 
 [[Google Scholar]](https://scholar.google.com/citations?user=nfHyDeUAAAAJ&hl)  
@@ -172,4 +121,3 @@ AISTATS13
 Bayesian Posterior Sampling via Stochastic Gradient Fisher Scoring  
 *S. Ahn, A. Korattikara, and M. Welling*  
 ICML12 <span style="color:green">Best Paper Award</span>
-
