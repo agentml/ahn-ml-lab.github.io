@@ -39,7 +39,7 @@ I am working on geometry processing for sketching and 3D shape recovering, tackl
 I'm an Assistant Professor of [Computer Science at Rutgers University](https://cs.rutgers.edu) where I lead the [Rutgers Machine Learning Group](./members/) (RUML). My current research focus is how an artificial agent can **learn to build models of the world** in an unsupervised and compositional way. My approach to achieving this is based on deep learning, probabilistic modeling, reinforcement learning, and inspiration from cognitive & neuroscience. I received my Ph.D. at the [University of California, Irvine](https://uci.edu) on the study of scalable approximate Bayesian inference under the supervision of Prof. [Max Welling](https://staff.fnwi.uva.nl/m.welling/). I did my postdoc working on deep learning at [MILA](https://mila.quebec/en/) under Prof. [Yoshua Bengio](https://yoshuabengio.org/). Then, I joined Rutgers University in Fall 2018.
 
 
-## **News**
+## News
 - I'll be visiting DeepMind in March to give an Invited Talk
 - I'm serving as an Area Chair for UAI 2020
 - 2 papers accepted in ICLR 2020
@@ -55,7 +55,7 @@ I'm an Assistant Professor of [Computer Science at Rutgers University](https://c
 - Probabilistic Generative Models
 -->
 
-## **Publications** 
+## Publications 
 [[Google Scholar]](https://scholar.google.com/citations?user=nfHyDeUAAAAJ&hl)  
 **Names in { } below indicates equally-contributed first authors or advisors*
 
