@@ -3,7 +3,7 @@
 main:
   - title: "Home"
     url: /
-  - title: "RUML"
+  - title: "RUML-Members"
     url: /members/
   - title: "Teaching"
     url: /teaching/

@@ -4,34 +4,34 @@ layout: page
 
 <h3 style="text-align: center">Rutgers Machine Learning Group (RUML)</h3>
 
-**Professor**  
+#### Professor
 - [Sungjin Ahn](./index)
 
 <!--### Current Members-->
-**PhD Students**
+#### PhD Students
 
 - [Gautam Singh](http://singhgautam.github.io/)  
 - Fei Deng  
 - Chang Chen  
 - [Yi-Fu Wu](http://www.yifuwu.com/)  
 
-**Master Students**  
+#### Master Students  
 
 - [Jindong Jiang](https://www.jindongjiang.me/)  
 
-**Interns**  
+#### Interns  
 
 - Skand Vishwanath Peri (Jun. 2019 ~ )
 - [Zhixuan Lin](https://www.zhixuanlin.com/) (Aug. 2019 ~)
 - Bofeng Fu
 
-**External Collaborator**  
+#### External Collaborator  
 
 - [Jaesik Yoon](https://sites.google.com/view/jaesikyoon/home)
 
-**Visiting Scholar**  
+#### Visiting Scholar  
 
-**Past**  
+#### Past  
 
 - Zhuo Zhi (Intern)  
 - Taesup Kim (Visiting Ph.D. student from MILA)  
