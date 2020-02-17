@@ -37,6 +37,13 @@ $on-laptop:        800px !default;
   }
 }
 
+.centered-and-cropped-text-wrap {
+    object-fit:cover;
+    padding:0 15px;
+    float:left;
+    border-radius:50%;
+    display:block
+}
 
 
 // Import partials.
