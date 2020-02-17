@@ -43,7 +43,7 @@ I'm an Assistant Professor of [Computer Science at Rutgers University](https://c
 
 
 ### **News**
-- I'll be visiting DeepMind in March to give an Invited Talk
+- I'll be visiting DeepMind in March to give a talk
 - I'm serving as an Area Chair for UAI 2020
 - 2 papers accepted in ICLR 2020
 - Teaching [CS 536: Machine Learning](https://hackmd.io/@Tn97A1U0QG6gBtFPXRh4oQ/B1sZLO55r) in Spring 2020
@@ -55,7 +55,6 @@ I'm an Assistant Professor of [Computer Science at Rutgers University](https://c
 
 ### **Publications** 
 [[Google Scholar]](https://scholar.google.com/citations?user=nfHyDeUAAAAJ&hl)  
-**Names in { } below indicates equally-contributed first authors or advisors*
 
 
 ### 2020
