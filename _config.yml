@@ -16,8 +16,8 @@
 title: Sungjin Ahn
 author: Sungjin Ahn
 description: Minimal, responsive Jekyll theme for hackers.
-baseurl: "/homepage" # the subpath of your site, e.g. /blog
-url: "https://yous.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ahn-ml-lab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
 timezone: UTC
 exclude:
