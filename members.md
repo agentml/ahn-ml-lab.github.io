@@ -4,35 +4,37 @@ layout: page
 
 <h4 style="text-align: center">Rutgers Machine Learning Group</h4>
 
-#### Director
+<!--#### Rutgers Machinne Learning Group-->
+
+**Director**
 - [Sungjin Ahn](../index)
 
 <!--### Current Members-->
-#### PhD students
+**PhD students**
 
 - [Gautam Singh](http://singhgautam.github.io/)  
 - Fei Deng  
 - Chang Chen  
 - [Yi-Fu Wu](http://www.yifuwu.com/)  
 
-#### MS students  
+**MS students**  
 
 - [Jindong Jiang](https://www.jindongjiang.me/)  
 
-#### Intern and visiting students 
+**Intern and visiting students** 
 
 - Skand Vishwanath Peri (Jun. 2019 ~ )
 - [Zhixuan Lin](https://www.zhixuanlin.com/) (Aug. 2019 ~)
 - Bofeng Fu
 
-#### External collaborator  
+**External collaborator**  
 
 - [Jaesik Yoon](https://sites.google.com/view/jaesikyoon/home)
 
-#### Visiting scholar 
+**Visiting scholar** 
 - Jong Kwon Son (May 2020 ~)
 
-#### Past members  
+**Past members**  
 
 - Weihao Sun (MS)
 - Zhuo Zhi (Intern)  

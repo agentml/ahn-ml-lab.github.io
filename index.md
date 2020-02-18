@@ -5,6 +5,8 @@
 layout: home
 ---
 
+<!--## Sungjin Ahn-->
+
 <p><img class="centered-and-cropped-text-wrap" width="150" height="150" src="./assets/img/profile_rutgers.jpg" alt="Sungjin Ahn" /></p>
 <br>
 Assistant Professor  
