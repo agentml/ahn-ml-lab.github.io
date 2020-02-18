@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-<p><img class="centered-and-cropped-text-wrap" width="150" height="150" src="./assets/img/profile_pic.JPG" alt="Sungjin Ahn" /></p>
+<p><img class="centered-and-cropped-text-wrap" width="150" height="150" src="./assets/img/profile_rutgers.jpg" alt="Sungjin Ahn" /></p>
 
 
 
