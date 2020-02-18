@@ -5,7 +5,7 @@ layout: page
 <h4 style="text-align: center">Rutgers Machine Learning Group</h4>
 
 #### Director
-- [Sungjin Ahn](./index)
+- [Sungjin Ahn](../index)
 
 <!--### Current Members-->
 #### PhD students
