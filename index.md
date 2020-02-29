@@ -48,8 +48,10 @@ SPACE: Unsupervised Object-Oriented Scene Representation via Spatial Attention a
 *{Z. Lin, Y. Wu, S. Peri}, W. Sun, G. Singh, F. Deng, J. Jiang, S. Ahn*  
 ICLR 20 [[pdf](https://openreview.net/pdf?id=rkl03ySYDH)] [[project](https://sites.google.com/view/space-project-page)]
 
+<!--
 Robust Meta-Transfer Learning  
 *J. Yoon, G. Singh. S.Ahn*
+-->
 
 
 ### 2019
