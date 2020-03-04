@@ -30,7 +30,7 @@ I'm an Assistant Professor of [Computer Science at Rutgers University](https://c
 - Teaching [CS 536: Machine Learning](https://hackmd.io/@Tn97A1U0QG6gBtFPXRh4oQ/B1sZLO55r) in Spring 2020
 - New paper on Generative Hierarchical Models for Parts, Objects, and Scenes is now in arXiv
 - 3 papers accepted in NeurIPS 2019 including one spotlight paper
-- Learning Single-View 3D Reconstruction with Adversarial Training is accepted to ICCV 2019 as an oral presentation
+<!--- A paper on Single-View 3D Learning with Adversarial Training is accepted to ICCV 2019 as an oral presentation-->
 - New paper on Sequential Neural Processes is in arXiv
 
 
