@@ -51,7 +51,7 @@ ICLR 20 [[pdf](https://openreview.net/pdf?id=rkl03ySYDH)] [[project](https://sit
 Unsupervised 3D Scene Representation with Object Decomposition  
 *C. Chen, F. Deng, S. Ahn*
 
-Robust Meta-Transfer Learning with Memory Reconstruction  
+Robust Meta-Transfer Learning via Memory Reconstruction  
 *J. Yoon, G. Singh. S. Ahn*
 
 
