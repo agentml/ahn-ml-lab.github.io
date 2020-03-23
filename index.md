@@ -24,7 +24,7 @@ I'm an Assistant Professor of [Computer Science at Rutgers University](https://c
 
 
 ### **News**
-- I have an open position for a postdoc researcher. Please, send me email with your CV if your're interested.
+- I have an open position for a postdoc researcher. For more information, send me an email with your CV.
 - I'm co-organizing ICML 2020 Workshop on Object-Oriented Learning: Perception, Representation, and Reasoning
 - I'll be visiting DeepMind to give a talk
 <!--- I'm serving as an Area Chair for UAI 2020-->
