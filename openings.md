@@ -3,7 +3,7 @@ layout: page
 ---
 
 **Postdoc**
-- ~~One postdoc position is immediately available. Contact me with your CV~~
+- One postdoc position is immediately available. Contact me with your CV.
 
 
 **Ph.D. Program Applicants**
