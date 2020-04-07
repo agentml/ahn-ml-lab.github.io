@@ -24,16 +24,15 @@ I'm an Assistant Professor of [Computer Science at Rutgers University](https://c
 
 
 ### **News**
-- I have an open position for a postdoc researcher. For more information, send me an email with your CV.
-- I'm co-organizing ICML 2020 Workshop on Object-Oriented Learning: Perception, Representation, and Reasoning ([https://oolworkshop.github.io/](https://oolworkshop.github.io/))
+- I'm co-organizing **ICML 2020 Workshop on Object-Oriented Learning** ([https://oolworkshop.github.io/](https://oolworkshop.github.io/))
+- We have an open position for a postdoc researcher. For more information, send me an email with your CV.
 - I'll be visiting DeepMind to give a talk
 <!--- I'm serving as an Area Chair for UAI 2020-->
 - 2 papers accepted in ICLR 2020
 - Teaching [CS 536: Machine Learning](https://hackmd.io/@Tn97A1U0QG6gBtFPXRh4oQ/B1sZLO55r) in Spring 2020
-- New paper on Generative Hierarchical Models for Parts, Objects, and Scenes is now in arXiv
 - 3 papers accepted in NeurIPS 2019 including one spotlight paper
 <!--- A paper on Single-View 3D Learning with Adversarial Training is accepted to ICCV 2019 as an oral presentation-->
-- New paper on Sequential Neural Processes is in arXiv
+<!--- New paper on Sequential Neural Processes is in arXiv-->
 
 
 ### **Publications** / [Google Scholar](https://scholar.google.com/citations?user=nfHyDeUAAAAJ&hl)  
