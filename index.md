@@ -17,7 +17,7 @@ Assistant Professor
 <br> 
 <br>
 <br>
-I'm an Assistant Professor of [Computer Science at Rutgers University](https://cs.rutgers.edu) where I lead the [Rutgers Machine Learning Group](./members/) (RUML). My current research focus is how an AI-agent can **learn to build and represent models of the world** in an unsupervised and compositional way. My approach to achieving this is based on deep learning, Bayesian modeling, reinforcement learning, and inspiration from cognitive & neuroscience. I received my Ph.D. at the [University of California, Irvine](https://uci.edu) on the study of scalable approximate Bayesian inference under the supervision of Prof. [Max Welling](https://staff.fnwi.uva.nl/m.welling/). I did my postdoc working on deep learning at [MILA](https://mila.quebec/en/) under Prof. [Yoshua Bengio](https://yoshuabengio.org/). Then, I joined Rutgers University in Fall 2018.
+I'm an Assistant Professor of [Computer Science at Rutgers University](https://cs.rutgers.edu) where I lead the [Rutgers Machine Learning Group](./members/) (RUML). My current research focus is how an AI-agent can **learn to build and represent models of the world** in an unsupervised and compositional way. My approach to achieving this is based on deep learning, Bayesian m  aodeling, reinforcement learning, and inspiration from cognitive & neuroscience. I received my Ph.D. at the [University of California, Irvine](https://uci.edu) on the study of scalable approximate Bayesian inference under the supervision of Prof. [Max Welling](https://staff.fnwi.uva.nl/m.welling/). I did my postdoc working on deep learning at [MILA](https://mila.quebec/en/) under Prof. [Yoshua Bengio](https://yoshuabengio.org/). Then, I joined Rutgers University in Fall 2018.
 
 **Email**: sjn.[last_name] at gmail  
 **Address**: CBIM 9, 617 Bowser Rd, Piscataway, NJ 08854
@@ -25,8 +25,8 @@ I'm an Assistant Professor of [Computer Science at Rutgers University](https://c
 
 ### **News**
 - I'm co-organizing **ICML 2020 Workshop on Object-Oriented Learning** ([https://oolworkshop.github.io/](https://oolworkshop.github.io/))
-- We have an open position for a postdoc researcher. For more information, send me an email with your CV.
-- Invited to give a talk at DeepMind
+- An opening for a postdoc researcher position. For more information, send me an email with your CV.
+- Invited to give a talk at DeepMind    
 <!--- I'm serving as an Area Chair for UAI 2020-->
 - 2 papers accepted in ICLR 2020
 - Teaching [CS 536: Machine Learning](https://hackmd.io/@Tn97A1U0QG6gBtFPXRh4oQ/B1sZLO55r) in Spring 2020
