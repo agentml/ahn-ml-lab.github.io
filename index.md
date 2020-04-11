@@ -26,7 +26,7 @@ I'm an Assistant Professor of [Computer Science at Rutgers University](https://c
 ### **News**
 - I'm co-organizing **ICML 2020 Workshop on Object-Oriented Learning** ([https://oolworkshop.github.io/](https://oolworkshop.github.io/))
 - We have an open position for a postdoc researcher. For more information, send me an email with your CV.
-- I'll be visiting DeepMind to give a talk
+- Invited to give a talk at DeepMind
 <!--- I'm serving as an Area Chair for UAI 2020-->
 - 2 papers accepted in ICLR 2020
 - Teaching [CS 536: Machine Learning](https://hackmd.io/@Tn97A1U0QG6gBtFPXRh4oQ/B1sZLO55r) in Spring 2020
