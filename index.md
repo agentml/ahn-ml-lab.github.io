@@ -48,7 +48,7 @@ ICLR 20 [[pdf](https://arxiv.org/pdf/1910.02384.pdf)] [[project](https://sites.g
 
 SPACE: Unsupervised Object-Oriented Scene Representation via Spatial Attention and Decomposition    
 *{Z. Lin, Y. Wu, S. Peri}, W. Sun, G. Singh, F. Deng, J. Jiang, S. Ahn*  
-ICLR 20 [[pdf](https://openreview.net/pdf?id=rkl03ySYDH)] [[project](https://sites.google.com/view/space-project-page)]
+ICLR 20 [[pdf](https://openreview.net/pdf?id=rkl03ySYDH)] [[project](https://sites.google.com/view/space-project-page)] [[code](https://github.com/JindongJiang/SCALOR)]  
 
 Unsupervised 3D Scene Representation with Object Decomposition  
 *C. Chen, F. Deng, S. Ahn*
