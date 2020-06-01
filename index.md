@@ -43,16 +43,16 @@ I'm an Assistant Professor of [Computer Science at Rutgers University](https://c
 ### 2020
 
 Improving Generative Imagination in Object-Centric World Models  
-Z. Lin, Y. Wu, S. Peri, B. Fu, J. Jiang, S. Ahn  
-ICML 20 [pdf]() [project]() [code]()  
+*Z. Lin, Y. Wu, S. Peri, B. Fu, J. Jiang, S. Ahn*  
+ICML 20 [[pdf]()] [[project]()] [[code]()]  
 
 Robustifying Sequential Neural Processes    
-J. Yoon, G. Singh, and S. Ahn   
-ICML 20 [pdf]() [project]() [code]()   
+*J. Yoon, G. Singh, and S. Ahn*   
+ICML 20 [[pdf]()] [[project]()] [[code]()]   
 
 SCALOR: Generative World Models with Scalable Object Representations     
 *{J. Jiang, S. Janghorbani}, G. Melo, and S. Ahn*  
-ICLR 20 [[pdf](https://arxiv.org/pdf/1910.02384.pdf)] [[project](https://sites.google.com/view/scalor/home)], [[code](https://github.com/JindongJiang/SCALOR)]      
+ICLR 20 [[pdf](https://arxiv.org/pdf/1910.02384.pdf)] [[project](https://sites.google.com/view/scalor/home)] [[code](https://github.com/JindongJiang/SCALOR)]      
 
 SPACE: Unsupervised Object-Oriented Scene Representation via Spatial Attention and Decomposition    
 *{Z. Lin, Y. Wu, S. Peri}, W. Sun, G. Singh, F. Deng, J. Jiang, S. Ahn*  
@@ -73,8 +73,9 @@ Robust Meta-Transfer Learning via Memory Reconstruction
 ### 2019
 
 Sequential Neural Processes   
-*{G. Singh, J. Yoon}, Y. Sohn, and S. Ahn*  
-NeurIPS 19, <span style="color:green">Spotlight (top 2.4% = 164/6743)</span>, [pdf](https://arxiv.org/pdf/1906.10264.pdf), [project](https://sites.google.com/view/sequential-neural-processes), [code](https://github.com/singhgautam/snp)
+*{G. Singh, J. Yoon}, Y. Sohn, and S. Ahn*    
+NeurIPS 19, <span style="color:green">Spotlight (top 2.4% = 164/6743)</span>  
+[pdf](https://arxiv.org/pdf/1906.10264.pdf) [project](https://sites.google.com/view/sequential-neural-processes) [code](https://github.com/singhgautam/snp)
 
 Variational Temporal Abstraction  
 *T. Kim, {S. Ahn, Y. Bengio}*  
