@@ -46,7 +46,7 @@ Improving Generative Imagination in Object-Centric World Models
 Z. Lin, Y. Wu, S. Peri, B. Fu, J. Jiang, S. Ahn  
 ICML 20 [[pdf]()] [[project]()] [[code]()]  
 
-Robustifying Meta-Transfer via Sequential Neural Processes    
+Robustifying via Sequential Neural Processes    
 J. Yoon, G. Singh, and S. Ahn   
 ICML 20 [[pdf]()] [[project]()] [[code]()]   
 
