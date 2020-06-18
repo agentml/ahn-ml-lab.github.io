@@ -79,7 +79,7 @@ Robust Meta-Transfer Learning via Memory Reconstruction
 Sequential Neural Processes   
 {G. Singh, J. Yoon}, Y. Sohn, and S. Ahn    
 NeurIPS 19, <span style="color:green">Spotlight (top 2.4% = 164/6743)</span>  
-[pdf](https://arxiv.org/pdf/1906.10264.pdf) [project](https://sites.google.com/view/sequential-neural-processes) [code](https://github.com/singhgautam/snp)
+[[pdf](https://arxiv.org/pdf/1906.10264.pdf)] [[project](https://sites.google.com/view/sequential-neural-processes)] [[code](https://github.com/singhgautam/snp)]
 
 Variational Temporal Abstraction  
 T. Kim, {S. Ahn, Y. Bengio}  
