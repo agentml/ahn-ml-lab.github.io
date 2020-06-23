@@ -52,25 +52,25 @@ ICML 20 <!---[[pdf]()] [[project]()] [[code]()]  -->
 
 Robustifying Sequential Neural Processes    
 J. Yoon, G. Singh, and S. Ahn   
-ICML-20 <!---[[pdf]()] [[project]()] [[code]()]   -->
+ICML 20 <!---[[pdf]()] [[project]()] [[code]()]   -->
 
 SCALOR: Generative World Models with Scalable Object Representations     
 {J. Jiang, S. Janghorbani}, G. Melo, and S. Ahn  
-ICLR-20 [[pdf](https://arxiv.org/pdf/1910.02384.pdf)] [[project](https://sites.google.com/view/scalor/home)] [[code](https://github.com/JindongJiang/SCALOR)]      
+ICLR 20 [[pdf](https://arxiv.org/pdf/1910.02384.pdf)] [[project](https://sites.google.com/view/scalor/home)] [[code](https://github.com/JindongJiang/SCALOR)]      
 
 SPACE: Unsupervised Object-Oriented Scene Representation via Spatial Attention and Decomposition    
 {Z. Lin, Y. Wu, S. Peri}, W. Sun, G. Singh, F. Deng, J. Jiang, S. Ahn  
-ICLR-20 [[pdf](https://openreview.net/pdf?id=rkl03ySYDH)] [[project](https://sites.google.com/view/space-project-page)] [[code](https://github.com/JindongJiang/SCALOR)]  
+ICLR 20 [[pdf](https://openreview.net/pdf?id=rkl03ySYDH)] [[project](https://sites.google.com/view/space-project-page)] [[code](https://github.com/JindongJiang/SCALOR)]  
 
 
 Hierarchical Decomposition and Generation of Scenes with Compositional Objects   
 F. Deng, Z. Zhi, S. Ahn  
-ICML-20 Workshop on Object-Oriented Learning, <span style="color:green">Spotlight</span>   
+ICML 20 Workshop on Object-Oriented Learning, <span style="color:green">Spotlight</span>   
 
 
 Generating Stochastic Object Dynamics in Scenes  
 Z. Lin, Y. Wu, S. Peri, B. Fu, J. Jiang, and S. Ahn   
-ICML-20 Workshop on Object-Oriented Learning   
+ICML 20 Workshop on Object-Oriented Learning   
 <!--
 Robust Meta-Transfer Learning via Memory Reconstruction  
 *J. Yoon, G. Singh. S. Ahn*
