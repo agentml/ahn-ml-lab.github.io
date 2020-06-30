@@ -52,7 +52,7 @@ ICML 20 <!---[[pdf]()] [[project]()] [[code]()]  -->
 
 Robustifying Sequential Neural Processes    
 J. Yoon, G. Singh, and S. Ahn   
-ICML 20 [[pdf](<!---)]   <!--- [[project]()] [[code]()]   -->  
+ICML 20 [[pdf](https://arxiv.org/abs/2006.15987)]   <!--- [[project]()] [[code]()]   -->  
 
 SCALOR: Generative World Models with Scalable Object Representations     
 {J. Jiang, S. Janghorbani}, G. Melo, and S. Ahn  
