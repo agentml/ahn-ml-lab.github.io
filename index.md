@@ -44,7 +44,7 @@ I'm an Assistant Professor of [Computer Science at Rutgers University](https://c
 
 Learning to Infer 3D Object Models from Images  
 {C. Chen, F. Deng}, S. Ahn  
-Preprint  [[pdf](https://arxiv.org/pdf/2006.06130.pdf)] <!---[[project]()] [[code]()]    -->
+Preprint  [[pdf](https://arxiv.org/pdf/2006.06130.pdf)] [[project](https://sites.google.com/view/roots3d)] <!--- [[code]()]    -->   
 
 Improving Generative Imagination in Object-Centric World Models  
 Z. Lin, Y. Wu, S. Peri, B. Fu, J. Jiang, S. Ahn  
