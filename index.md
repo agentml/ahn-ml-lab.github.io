@@ -44,7 +44,7 @@ I'm an Assistant Professor of [Computer Science at Rutgers University](https://c
 
 Learning to Infer 3D Object Models from Images  
 {C. Chen, F. Deng}, S. Ahn  
-Preprint  [[pdf](https://arxiv.org/pdf/2006.06130.pdf)] [[project](https://sites.google.com/view/roots3d)] <!--- [[code]()]    -->   
+Preprint  [[arxiv](https://arxiv.org/abs/2006.06130)] [[project](https://sites.google.com/view/roots3d)] <!--- [[code]()]    -->   
 
 Improving Generative Imagination in Object-Centric World Models  
 Z. Lin, Y. Wu, S. Peri, B. Fu, J. Jiang, S. Ahn  
@@ -52,11 +52,11 @@ ICML 20 <!---[[pdf]()] [[project]()] [[code]()]  -->
 
 Robustifying Sequential Neural Processes    
 J. Yoon, G. Singh, and S. Ahn   
-ICML 20 [[pdf](https://arxiv.org/abs/2006.15987)]   <!--- [[project]()] [[code]()]   -->  
+ICML 20 [[arxiv](https://arxiv.org/abs/2006.15987)]   <!--- [[project]()] [[code]()]   -->  
 
 SCALOR: Generative World Models with Scalable Object Representations     
 {J. Jiang, S. Janghorbani}, G. Melo, and S. Ahn  
-ICLR 20 [[pdf](https://arxiv.org/pdf/1910.02384.pdf)] [[project](https://sites.google.com/view/scalor/home)] [[code](https://github.com/JindongJiang/SCALOR)]      
+ICLR 20 [[arxiv](https://arxiv.org/abs/1910.02384)] [[project](https://sites.google.com/view/scalor/home)] [[code](https://github.com/JindongJiang/SCALOR)]      
 
 SPACE: Unsupervised Object-Oriented Scene Representation via Spatial Attention and Decomposition    
 {Z. Lin, Y. Wu, S. Peri}, W. Sun, G. Singh, F. Deng, J. Jiang, S. Ahn  
