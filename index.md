@@ -65,12 +65,11 @@ ICLR 20 [[pdf](https://openreview.net/pdf?id=rkl03ySYDH)] [[project](https://sit
 
 Hierarchical Decomposition and Generation of Scenes with Compositional Objects   
 F. Deng, Z. Zhi, S. Ahn  
-ICML 20 Workshop on Object-Oriented Learning, <span style="color:green">Spotlight</span>   
-
+ICML 20 Workshop on Object-Oriented Learning <span style="color:green">Spotlight</span> [[pdf](https://github.com/oolworkshop/oolworkshop.github.io/blob/master/pdf/OOL_30.pdf)]   
 
 Generating Stochastic Object Dynamics in Scenes  
 Z. Lin, Y. Wu, S. Peri, B. Fu, J. Jiang, and S. Ahn   
-ICML 20 Workshop on Object-Oriented Learning   
+ICML 20 Workshop on Object-Oriented Learning [[pdf](https://github.com/oolworkshop/oolworkshop.github.io/blob/master/pdf/OOL_3.pdf)]   
 <!--
 Robust Meta-Transfer Learning via Memory Reconstruction  
 *J. Yoon, G. Singh. S. Ahn*
