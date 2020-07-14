@@ -48,7 +48,7 @@ Preprint  [[arxiv](https://arxiv.org/abs/2006.06130)] [[project](https://sites.g
 
 Improving Generative Imagination in Object-Centric World Models  
 Z. Lin, Y. Wu, S. Peri, B. Fu, J. Jiang, S. Ahn  
-ICML 20 <!---[[pdf]()] [[project]()] [[code]()]  -->
+ICML 20 [[pdf](https://proceedings.icml.cc/static/paper_files/icml/2020/4995-Paper.pdf)] [[project](https://sites.google.com/view/gswm/home)] [[code](https://github.com/zhixuan-lin/G-SWM)]   
 
 Robustifying Sequential Neural Processes    
 J. Yoon, G. Singh, and S. Ahn   
