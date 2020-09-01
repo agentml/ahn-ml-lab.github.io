@@ -16,26 +16,26 @@ layout: page
 - Fei Deng  
 - Chang Chen  
 - [Yi-Fu Wu](http://www.yifuwu.com/)  
+- [Jindong Jiang](https://www.jindongjiang.me/)
+
 
 **MS students**  
-
-- [Jindong Jiang](https://www.jindongjiang.me/)  
+- Junghyun Kim  
 
 **Intern and visiting students** 
 
 - Skand Vishwanath Peri (Jun. 2019 ~ )
-- [Zhixuan Lin](https://www.zhixuanlin.com/) (Aug. 2019 ~)
 - Bofeng Fu
 
 **External collaborator**  
+- [Jaesik Yoon](https://sites.google.com/view/jaesikyoon/home)  
 
-- [Jaesik Yoon](https://sites.google.com/view/jaesikyoon/home)
 
 **Visiting scholar** 
-- Jong Kwon Son (May 2020 ~)
+- 
 
 **Past members**  
-
+- [Zhixuan Lin](https://www.zhixuanlin.com/) (Aug. 2019 ~)  
 - Weihao Sun (MS)
 - Zhuo Zhi (Intern)  
 - Taesup Kim (Visiting Ph.D. student from MILA)  
