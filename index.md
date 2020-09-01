@@ -62,7 +62,6 @@ SPACE: Unsupervised Object-Oriented Scene Representation via Spatial Attention a
 {Z. Lin, Y. Wu, S. Peri}, W. Sun, G. Singh, F. Deng, J. Jiang, S. Ahn  
 ICLR 20 [[pdf](https://openreview.net/pdf?id=rkl03ySYDH)] [[project](https://sites.google.com/view/space-project-page)] [[code](https://github.com/JindongJiang/SCALOR)]  
 
-
 Hierarchical Decomposition and Generation of Scenes with Compositional Objects   
 F. Deng, Z. Zhi, S. Ahn  
 ICML 20 Workshop on Object-Oriented Learning <span style="color:green">Spotlight</span> [[pdf](https://github.com/oolworkshop/oolworkshop.github.io/blob/master/pdf/OOL_30.pdf)]   
