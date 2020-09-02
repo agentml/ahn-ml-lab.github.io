@@ -48,27 +48,27 @@ Preprint  [[arxiv](https://arxiv.org/abs/2006.06130)] [[project](https://sites.g
 
 Improving Generative Imagination in Object-Centric World Models  
 Z. Lin, Y. Wu, S. Peri, B. Fu, J. Jiang, S. Ahn  
-ICML 20 [[pdf](https://proceedings.icml.cc/static/paper_files/icml/2020/4995-Paper.pdf)] [[project](https://sites.google.com/view/gswm/home)] [[code](https://github.com/zhixuan-lin/G-SWM)]   
+ICML-20 [[pdf](https://proceedings.icml.cc/static/paper_files/icml/2020/4995-Paper.pdf)] [[project](https://sites.google.com/view/gswm/home)] [[code](https://github.com/zhixuan-lin/G-SWM)]   
 
 Robustifying Sequential Neural Processes    
 J. Yoon, G. Singh, and S. Ahn   
-ICML 20 [[arxiv](https://arxiv.org/abs/2006.15987)]   <!--- [[project]()] [[code]()]   -->  
+ICML-20 [[arxiv](https://arxiv.org/abs/2006.15987)]   <!--- [[project]()] [[code]()]   -->  
 
 SCALOR: Generative World Models with Scalable Object Representations     
 {J. Jiang, S. Janghorbani}, G. Melo, and S. Ahn  
-ICLR 20 [[arxiv](https://arxiv.org/abs/1910.02384)] [[project](https://sites.google.com/view/scalor/home)] [[code](https://github.com/JindongJiang/SCALOR)]      
+ICLR-20 [[arxiv](https://arxiv.org/abs/1910.02384)] [[project](https://sites.google.com/view/scalor/home)] [[code](https://github.com/JindongJiang/SCALOR)]      
 
 SPACE: Unsupervised Object-Oriented Scene Representation via Spatial Attention and Decomposition    
 {Z. Lin, Y. Wu, S. Peri}, W. Sun, G. Singh, F. Deng, J. Jiang, S. Ahn  
-ICLR 20 [[pdf](https://openreview.net/pdf?id=rkl03ySYDH)] [[project](https://sites.google.com/view/space-project-page)] [[code](https://github.com/JindongJiang/SCALOR)]  
+ICLR-20 [[pdf](https://openreview.net/pdf?id=rkl03ySYDH)] [[project](https://sites.google.com/view/space-project-page)] [[code](https://github.com/JindongJiang/SCALOR)]  
 
 Hierarchical Decomposition and Generation of Scenes with Compositional Objects   
 F. Deng, Z. Zhi, S. Ahn  
-ICML 20 Workshop on Object-Oriented Learning <span style="color:green">Spotlight</span> [[pdf](https://github.com/oolworkshop/oolworkshop.github.io/blob/master/pdf/OOL_30.pdf)]   
+ICML-20, Workshop on Object-Oriented Learning <span style="color:green">Spotlight</span> [[pdf](https://github.com/oolworkshop/oolworkshop.github.io/blob/master/pdf/OOL_30.pdf)]   
 
 Generating Stochastic Object Dynamics in Scenes  
 Z. Lin, Y. Wu, S. Peri, B. Fu, J. Jiang, and S. Ahn   
-ICML 20 Workshop on Object-Oriented Learning [[pdf](https://github.com/oolworkshop/oolworkshop.github.io/blob/master/pdf/OOL_3.pdf)]   
+ICML-20, Workshop on Object-Oriented Learning [[pdf](https://github.com/oolworkshop/oolworkshop.github.io/blob/master/pdf/OOL_3.pdf)]   
 <!--
 Robust Meta-Transfer Learning via Memory Reconstruction  
 *J. Yoon, G. Singh. S. Ahn*
@@ -80,20 +80,20 @@ Robust Meta-Transfer Learning via Memory Reconstruction
 
 Sequential Neural Processes   
 {G. Singh, J. Yoon}, Y. Sohn, and S. Ahn    
-NeurIPS 19, <span style="color:green">Spotlight (top 2.4% = 164/6743)</span>  
+NeurIPS-19, <span style="color:green">Spotlight (top 2.4% = 164/6743)</span>  
 [[pdf](https://arxiv.org/pdf/1906.10264.pdf)] [[project](https://sites.google.com/view/sequential-neural-processes)] [[code](https://github.com/singhgautam/snp)]
 
 Variational Temporal Abstraction  
 T. Kim, {S. Ahn, Y. Bengio}  
-NeurIPS 19
+NeurIPS-19
 
 Neural Multisensory Scene Inference  
 J. Lim, P. Pinheiro, N. Rostamzadeh, C. Pal, and S. Ahn  
-NeurIPS 19
+NeurIPS-19
 
 Learning Single-View 3D Reconstruction with Adversarial Training   
 P. Pinheiro, N. Rostamzadeh, and S. Ahn  
-ICCV 19, <span style="color:green">Oral (top 4.3% of all the submitted)</span>
+ICCV-19, <span style="color:green">Oral (top 4.3% of all the submitted)</span>
 
 Generative Hierarchical Models for Parts, Objects, and Scenes  
 F. Deng, Z. Zhi, and S. Ahn  
@@ -107,50 +107,52 @@ arXiv
 
 Bayesian Model-Agnostic Meta-Learning  
 {J Yoon, T Kim}, O. Dia, S. Kim, Y. Bengio, S. Ahn  
-NeurIPS 18, <span style="color:green">Spotlight (top 3.5% = 168/4856)</span>
+NeurIPS-18, <span style="color:green">Spotlight (top 3.5% = 168/4856)</span>
 
 
 Reinforced Imitation Learning from Observations  
 K. Żołna, N. Rostamzadeh, Y. Bengio, {S. Ahn, P. Pinheiro}  
-NeurIPS 18 Workshop on Imitation Learning and Its Challenges in Robotics
+NeurIPS-18 Workshop on Imitation Learning and Its Challenges in Robotics
 
 
 ### 2017
 
 Hierarchical Multiscale Recurrent Neural Networks  
 J. Chung, S. Ahn, Y. Bengio  
-International Conference on Learning Representations (ICLR)
+ICLR-17   
+<!--International Conference on Learning Representations (ICLR)-->
 
 Denoising Criterion for Variational Auto-Encoding Framework  
 D. Im, S. Ahn, R. Memisevic, Y. Bengio  
-AAAI Conferenceon Artificial Intelligence (AAAI)
+AAAI-17   
+<!--Conferenceon Artificial Intelligence (AAAI)-->
 
 SENA: Preserving Social Structure for Network Embedding  
 S. Hong, T. Chakraborty, S. Ahn, G. Husari and N. Park  
-ACM Conference on Hypertext and Social Media
+ACM Hypertext and Social Media 17  
 
 ### 2016
 
 Pointing the Unknown Words  
 C. Gulcehre, S. Ahn, R. Nallapati, B. Zhou, Y. Bengio  
-ACL16
+ACL-16
 
 Generating Factoid Questions with Recurrent Neural Networks: The 30M Factoid Question-Answer Corpus  
 {I. V. Serban, A. G. Duran}, C. Gulcehre, S. Ahn, S. Chandar, A. Courville, Y. Bengio  
-ACL16
+ACL-16
 
 Scalable MCMC for Mixed Membership Stochastic Blockmodels  
 {W. Li, S. Ahn}, and M. Welling   
-AISTATS16
+AISTATS-16
 
 
 Scalable Overlapping Community Detection   
 I. El-Helw, R. Hofman, W. Li, S. Ahn, M. Welling, H. Bal       
-ParLearning16, <span style="color:green">Best Paper Award</span>
+ParLearning-16, <span style="color:green">Best Paper Award</span>
 
 Learning Latent Multiscale Structure using Recurrent Neural Networks  
 J. Chung, S. Ahn, Y. Bengio  
-NIPS 2016 Workshop on Neural Abstract Machines & Program Induction (NAMPI)
+NIPS-16 Workshop on Neural Abstract Machines & Program Induction (NAMPI)
 
 
 A Neural Knowledge Language Model  
@@ -168,17 +170,17 @@ PhD Dissertation
 
 Large-Scale Distributed Bayesian Matrix Factorization using Stochastic Gradient MCMC  
 S. Ahn, A. Korattikara, N. Liu, S. Rajan, and M. Welling  
-KDD15
+KDD-15
 
 Distributed Stochastic Gradient MCMC  
 S. Ahn, B. Shahbaba, and M. Welling  
-ICML14
+ICML-14
 
 Distributed and Adaptive Darting Monte Carlo through Regenerations  
 S. Ahn, Y. Chen, and M. Welling  
-AISTATS13
+AISTATS-13
 
 Bayesian Posterior Sampling via Stochastic Gradient Fisher Scoring  
 S. Ahn, A. Korattikara, and M. Welling  
-ICML12 <span style="color:green">Best Paper Award</span>
+ICML-12 <span style="color:green">Best Paper Award</span>
 
