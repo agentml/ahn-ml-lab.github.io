@@ -16,7 +16,8 @@ layout: page
 - Fei Deng  
 - Chang Chen  
 - [Yi-Fu Wu](http://www.yifuwu.com/)  
-- [Jindong Jiang](https://www.jindongjiang.me/)
+- [Jindong Jiang](https://www.jindongjiang.me/)  
+- [Jaesik Yoon](https://sites.google.com/view/jaesikyoon/home)  
 
 
 **MS students**  
@@ -27,8 +28,8 @@ layout: page
 - Skand Vishwanath Peri (Jun. 2019 ~ )
 - Bofeng Fu
 
-**External collaborator**  
-- [Jaesik Yoon](https://sites.google.com/view/jaesikyoon/home)  
+<!--**External collaborator**  -->
+
 
 
 **Visiting scholar** 
