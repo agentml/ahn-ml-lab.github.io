@@ -24,7 +24,7 @@ I'm an Assistant Professor of [Computer Science at Rutgers University](https://c
 
 
 ### **News**
-- Invited Speaker for NeurIPS 2020 Workshop on Object Representations for Learning and Reasoning  
+- Invited Speaker for [NeurIPS 2020 Workshop on Object Representations for Learning and Reasoning](https://orlrworkshop.github.io/index.html)  
 - Senior Program Committee, AAAI 2021  
 - Co-organizing **ICML 2020 Workshop on Object-Oriented Learning** ([https://oolworkshop.github.io/](https://oolworkshop.github.io/))
 - Teaching in Fall 2020: [CS 444: Deep Learning](https://hackmd.io/@Tn97A1U0QG6gBtFPXRh4oQ/rkkT1AT_I)
