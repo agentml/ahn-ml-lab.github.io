@@ -31,8 +31,10 @@ layout: page
 - [Jaesik Yoon](https://sites.google.com/view/jaesikyoon/home)  
 
 
+<!--
 **Visiting scholar** 
 - 
+-->
 
 **Past members**  
 - [Zhixuan Lin](https://www.zhixuanlin.com/) (Aug. 2019 ~)  
