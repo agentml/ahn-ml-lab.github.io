@@ -7,8 +7,8 @@ layout: page
 
 
 **Ph.D. Program Applicants**
-- ==I have no opening for Ph.D. students starting from September 2021.==
-- --I'm looking for highly motivated Ph.D. students starting from Sept. 2021. **You do not need to send me a contact email**. Directly apply to Rutgers Graduate Admissions and (1) put my name in your application as a professor who you would like to work with, and (2) choose ML as the area of your primary interest.--
+- I have **no opening for Ph.D.** students starting from September 2021.
+<!--- --I'm looking for highly motivated Ph.D. students starting from Sept. 2021. **You do not need to send me a contact email**. Directly apply to Rutgers Graduate Admissions and (1) put my name in your application as a professor who you would like to work with, and (2) choose ML as the area of your primary interest.---->
 
 **M.S. Program Applicants**
 - I do not reply to MS program applicants contact email. Please contact me after getting the admission.
