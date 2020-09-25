@@ -24,6 +24,7 @@ I'm an Assistant Professor of [Computer Science at Rutgers University](https://c
 
 
 ### **News**
+- Our paper "Generative Neurosymbolic Machines" is accepted in NeurIPS 2020 as a spotlight!  
 - Invited Speaker for [NeurIPS 2020 Workshop on Object Representations for Learning and Reasoning](https://orlrworkshop.github.io/index.html)  
 - Senior Program Committee, AAAI 2021  
 - Co-organizing **ICML 2020 Workshop on Object-Oriented Learning** ([https://oolworkshop.github.io/](https://oolworkshop.github.io/))
@@ -43,6 +44,10 @@ I'm an Assistant Professor of [Computer Science at Rutgers University](https://c
 
 
 ### 2020
+
+Generative Neurosymbolic Machines  
+J. Jiang and S. Ahn  
+NeurIPS-20, <span style="color:green">Spotlight (top 4% = 395/9454 submissions)</span>    
 
 Learning to Infer 3D Object Models from Images  
 {C. Chen, F. Deng}, S. Ahn  
