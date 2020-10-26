@@ -47,7 +47,7 @@ I'm an Assistant Professor of [Computer Science at Rutgers University](https://c
 
 Generative Neurosymbolic Machines  
 J. Jiang and S. Ahn  
-NeurIPS-20, <span style="color:green">Spotlight (top 4% = 395/9454 submissions)</span>    
+NeurIPS-20, [[pdf](https://arxiv.org/abs/2010.12152)] <span style="color:green">Spotlight (top 4% = 395/9454 submissions)</span>    
 
 Learning to Infer 3D Object Models from Images  
 {C. Chen, F. Deng}, S. Ahn  
