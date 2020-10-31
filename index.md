@@ -142,7 +142,7 @@ ACM Hypertext and Social Media 17
 
 Pointing the Unknown Words  
 C. Gulcehre, S. Ahn, R. Nallapati, B. Zhou, Y. Bengio  
-ACL-16
+ACL-16 <span style="color:green">Oral Presentation</span>    
 
 Generating Factoid Questions with Recurrent Neural Networks: The 30M Factoid Question-Answer Corpus  
 {I. V. Serban, A. G. Duran}, C. Gulcehre, S. Ahn, S. Chandar, A. Courville, Y. Bengio  
