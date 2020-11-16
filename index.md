@@ -50,7 +50,7 @@ Generative Neurosymbolic Machines
 J. Jiang and S. Ahn  
 NeurIPS-20, [[arxiv](https://arxiv.org/abs/2010.12152)] <span style="color:green">Spotlight (top 4% = 395/9454 submissions)</span>    
 
-Learning to Infer 3D Object Models from Images  
+Object-Centric Representation and Rendering of 3D Scenes      
 {C. Chen, F. Deng}, S. Ahn  
 Preprint  [[arxiv](https://arxiv.org/abs/2006.06130)] [[project](https://sites.google.com/view/roots3d)] <!--- [[code]()]    -->   
 
