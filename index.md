@@ -52,7 +52,7 @@ NeurIPS-20, [[arxiv](https://arxiv.org/abs/2010.12152)] [[code](https://github.c
 
 Object-Centric Representation and Rendering of 3D Scenes      
 {C. Chen, F. Deng}, S. Ahn  
-Preprint  [[arxiv](https://arxiv.org/abs/2006.06130)] [[project](https://sites.google.com/view/roots3d)] <!--- [[code]()]    -->   
+Under Review at JMLR, Preprint [[arxiv](https://arxiv.org/abs/2006.06130)] [[project](https://sites.google.com/view/roots3d)] <!--- [[code]()]    -->   
 
 Improving Generative Imagination in Object-Centric World Models  
 Z. Lin, Y. Wu, S. Peri, B. Fu, J. Jiang, S. Ahn  
