@@ -17,7 +17,7 @@ Assistant Professor
 <br> 
 <br>
 <br>
-I'm an Assistant Professor of [Computer Science](https://cs.rutgers.edu) and [Cognitive Science](https://ruccs.rutgers.edu/) at Rutgers University where I lead the [Rutgers Machine Learning Group](./members/) (RUML). My research goal is to develop machine learning algorithms to make machines have human-like intelligence. I believe that AI agents should be able to learn representations and structured relations of the world in a way to provide systematic generalization. In approaching to this problem, I have particular emphases on unsupervised and structured representation learning based on deep learning, probabilistic learning, and reinforcement learning. Inspiration from cog/neuro-science is also important to come up with proper inductive biases. I received my Ph.D. at the [University of California, Irvine](https://uci.edu) on the study of scalable approximate Bayesian inference under the supervision of Prof. [Max Welling](https://staff.fnwi.uva.nl/m.welling/). I did my postdoc working on deep learning at [MILA](https://mila.quebec/en/) under Prof. [Yoshua Bengio](https://yoshuabengio.org/). I joined Rutgers University in Fall 2018.
+I'm an Assistant Professor of [Computer Science](https://cs.rutgers.edu) and [Cognitive Science](https://ruccs.rutgers.edu/) at Rutgers University where I lead the [Rutgers Machine Learning Group](./members/) (RUML). My research goal is to develop machine learning algorithms to make machines have human-like intelligence. I believe that AI agents should be able to learn representations of the world and their structured relations in a way to support systematic generalization. I have particular emphases on unsupervised and structured representation learning based on deep learning, probabilistic learning, and reinforcement learning. Inspiration from cog/neuroscience is also important to come up with proper inductive biases. I received my Ph.D. at the [University of California, Irvine](https://uci.edu) on the study of scalable approximate Bayesian inference under the supervision of Prof. [Max Welling](https://staff.fnwi.uva.nl/m.welling/). I did my postdoc working on deep learning at [MILA](https://mila.quebec/en/) under Prof. [Yoshua Bengio](https://yoshuabengio.org/). I joined Rutgers University in Fall 2018.
 
 **Email**: sjn.[last_name] at gmail  
 **Address**: CBIM 9, 617 Bowser Rd, Piscataway, NJ 08854
@@ -29,10 +29,9 @@ I'm an Assistant Professor of [Computer Science](https://cs.rutgers.edu) and [Co
 - Our paper "Generative Neurosymbolic Machines" is accepted in NeurIPS 2020 as a spotlight!  
 - Invited Speaker for [NeurIPS 2020 Workshop on Object Representations for Learning and Reasoning](https://orlrworkshop.github.io/index.html)  
 - Senior Program Committee, AAAI 2021  
-- Co-organizing **ICML 2020 Workshop on Object-Oriented Learning** ([https://oolworkshop.github.io/](https://oolworkshop.github.io/))
+- Co-organizing ICML 2020 Workshop on Object-Oriented Learning ([https://oolworkshop.github.io/](https://oolworkshop.github.io/))
 - Teaching in Fall 2020: [CS 444: Deep Learning](https://hackmd.io/@Tn97A1U0QG6gBtFPXRh4oQ/rkkT1AT_I)
 - <span style="color:red">A postdoc position is available.</span> For more information, send me an email with your CV.   
-- Invited to give a talk at DeepMind    
 <!--- I'm serving as an Area Chair for UAI 2020-->
 - 2 papers accepted in ICLR 2020
 - Teaching [CS 536: Machine Learning](https://hackmd.io/@Tn97A1U0QG6gBtFPXRh4oQ/B1sZLO55r) in Spring 2020
