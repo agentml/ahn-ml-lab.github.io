@@ -76,11 +76,11 @@ ICML-20, Workshop on Object-Oriented Learning <span style="color:green">Spotligh
 
 Generating Stochastic Object Dynamics in Scenes  
 Z. Lin, Y. Wu, S. Peri, B. Fu, J. Jiang, and S. Ahn   
-ICML-20, Workshop on Object-Oriented Learning [[pdf](https://github.com/oolworkshop/oolworkshop.github.io/blob/master/pdf/OOL_3.pdf)]   
-<!--
-Robust Meta-Transfer Learning via Memory Reconstruction  
-*J. Yoon, G. Singh. S. Ahn*
--->
+ICML-20, Workshop on Object-Oriented Learning [[pdf](https://github.com/oolworkshop/oolworkshop.github.io/blob/master/pdf/OOL_3.pdf)]  
+
+Space and the Brain - A Review of the Cognitive Map Mechanisms in the Entorhinal-Hippocampal Circuit  
+Y. Friedman and S. Ahn   
+Reciepient of the Henry Rutgers Scholar Award  
 
 
 
