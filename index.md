@@ -42,7 +42,10 @@ I'm an Assistant Professor of [Computer Science](https://cs.rutgers.edu) and [Co
 
 ### **Publications** / [Google Scholar](https://scholar.google.com/citations?user=nfHyDeUAAAAJ&hl)  
 
-
+### 2021  
+Generative Scene Graph Networks  
+F. Deng, Z. Zhi, D. Lee, S. Ahn  
+ICLR-21 [[pdf](https://openreview.net/pdf?id=RmcPm9m3tnk)]  
 
 ### 2020
 
