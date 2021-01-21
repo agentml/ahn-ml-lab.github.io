@@ -31,7 +31,7 @@ I'm an Assistant Professor of [Computer Science](https://cs.rutgers.edu) and [Co
 - Senior Program Committee, AAAI 2021  
 - Co-organizing ICML 2020 Workshop on Object-Oriented Learning ([https://oolworkshop.github.io/](https://oolworkshop.github.io/))
 - Teaching in Fall 2020: [CS 444: Deep Learning](https://hackmd.io/@Tn97A1U0QG6gBtFPXRh4oQ/rkkT1AT_I)
-- <span style="color:red">A postdoc position is available.</span> For more information, send me an email with your CV.   
+<!--- <span style="color:red">A postdoc position is available.</span> For more information, send me an email with your CV.   -->
 <!--- I'm serving as an Area Chair for UAI 2020-->
 - 2 papers accepted in ICLR 2020
 - Teaching [CS 536: Machine Learning](https://hackmd.io/@Tn97A1U0QG6gBtFPXRh4oQ/B1sZLO55r) in Spring 2020
