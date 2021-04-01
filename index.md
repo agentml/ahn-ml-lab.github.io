@@ -24,6 +24,7 @@ I'm an Assistant Professor of [Computer Science](https://cs.rutgers.edu) and [Co
 
 
 ### **News**
+- Area Chair, NeurIPS 2021  
 - Invited Talk at DeepMind, Jan 2021  
 - Area Chair, ICML 2021  
 - Our paper "Generative Neurosymbolic Machines" is accepted in NeurIPS 2020 as a spotlight!  
