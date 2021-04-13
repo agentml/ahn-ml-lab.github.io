@@ -84,7 +84,7 @@ ICML-20, Workshop on Object-Oriented Learning [[pdf](https://github.com/oolworks
 
 Space and the Brain - A Review of the Cognitive Map Mechanisms in the Entorhinal-Hippocampal Circuit  
 Y. Friedman and S. Ahn   
-Reciepient of the Henry Rutgers Scholar Award  
+<span style="color:green">Henry Rutgers Scholar Award</span>          
 
 
 
