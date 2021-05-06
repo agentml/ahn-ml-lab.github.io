@@ -46,17 +46,17 @@ I'm an Assistant Professor of [Computer Science](https://cs.rutgers.edu) and [Co
 ### 2021  
 Generative Scene Graph Networks  
 F. Deng, Z. Zhi, D. Lee, S. Ahn  
-ICLR-21 [[pdf](https://openreview.net/pdf?id=RmcPm9m3tnk)]  
+ICLR-21 [[pdf](https://openreview.net/pdf?id=RmcPm9m3tnk)]   
+
+Object-Centric Representation and Rendering of 3D Scenes      
+{C. Chen, F. Deng}, S. Ahn  
+Under Review at JMLR, Preprint [[arxiv](https://arxiv.org/abs/2006.06130)] [[project](https://sites.google.com/view/roots3d)] <!--- [[code]()]    -->     
 
 ### 2020
 
 Generative Neurosymbolic Machines  
 J. Jiang and S. Ahn  
 NeurIPS-20, [[arxiv](https://arxiv.org/abs/2010.12152)] [[code](https://github.com/JindongJiang/GNM)] <span style="color:green">Spotlight (top 4% = 395/9454 submissions)</span>    
-
-Object-Centric Representation and Rendering of 3D Scenes      
-{C. Chen, F. Deng}, S. Ahn  
-Under Review at JMLR, Preprint [[arxiv](https://arxiv.org/abs/2006.06130)] [[project](https://sites.google.com/view/roots3d)] <!--- [[code]()]    -->   
 
 Improving Generative Imagination in Object-Centric World Models  
 Z. Lin, Y. Wu, S. Peri, B. Fu, J. Jiang, S. Ahn  
