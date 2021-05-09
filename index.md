@@ -24,12 +24,10 @@ I'm an Assistant Professor of [Computer Science](https://cs.rutgers.edu) and [Co
 
 
 ### **News**
-- Area Chair, NeurIPS 2021  
+- Two papers are accepted in ICML 2021  
 - Invited Talk at DeepMind, Jan 2021  
-- Area Chair, ICML 2021  
 - Our paper "Generative Neurosymbolic Machines" is accepted in NeurIPS 2020 as a spotlight!  
 - Invited Speaker for [NeurIPS 2020 Workshop on Object Representations for Learning and Reasoning](https://orlrworkshop.github.io/index.html)  
-- Senior Program Committee, AAAI 2021  
 - Co-organizing ICML 2020 Workshop on Object-Oriented Learning ([https://oolworkshop.github.io/](https://oolworkshop.github.io/))
 - Teaching in Fall 2020: [CS 444: Deep Learning](https://hackmd.io/@Tn97A1U0QG6gBtFPXRh4oQ/rkkT1AT_I)
 <!--- <span style="color:red">A postdoc position is available.</span> For more information, send me an email with your CV.   -->
@@ -41,9 +39,22 @@ I'm an Assistant Professor of [Computer Science](https://cs.rutgers.edu) and [Co
 <!--- New paper on Sequential Neural Processes is in arXiv-->
 
 
+### **Service** 
+- Area Chair - NeurIPS 2021, ICML 2021, AAAI 2021 (Senior Program Committee)  
+- Reviewers - NeurIPS, ICML, ICLR, AISTATS, AAAI (2015 - 2020)   
+
+
 ### **Publications** / [Google Scholar](https://scholar.google.com/citations?user=nfHyDeUAAAAJ&hl)  
 
-### 2021  
+### 2021    
+Structured World Belief for Reinforcement Learning in POMDP  
+Gautam Signh, Skand Peri, Sungjin Ahn  
+ICML 21   
+
+Generative Video Transformer: Can Objects be the Words?  
+Yi-Fu Wu, Jaesik Yoon, Sungjin Ahn  
+ICML 21  
+
 Generative Scene Graph Networks  
 F. Deng, Z. Zhi, D. Lee, S. Ahn  
 ICLR-21 [[pdf](https://openreview.net/pdf?id=RmcPm9m3tnk)]   
