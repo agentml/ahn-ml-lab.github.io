@@ -47,7 +47,7 @@ I'm an Assistant Professor of [Computer Science](https://cs.rutgers.edu) and [Co
 ### **Publications** / [Google Scholar](https://scholar.google.com/citations?user=nfHyDeUAAAAJ&hl)  
 
 ### 2021    
-Structured World Belief for Reinforcement Learning in POMDP  
+Structured World Belief Representations  
 Gautam Signh, Skand Peri, Junghyun Kim, Hyunseok Kim, Sungjin Ahn  
 ICML 21   
 
