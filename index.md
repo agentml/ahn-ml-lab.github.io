@@ -40,7 +40,7 @@ I'm an Assistant Professor of [Computer Science](https://cs.rutgers.edu) and [Co
 
 
 ### **Service** 
-- Area Chair - NeurIPS 2021, ICML 2021, AAAI 2021 (Senior Program Committee)  
+- Area Chair - NeurIPS 2021, ICML 2021, AAAI 2020 (Senior Program Committee)  
 - Reviewers - NeurIPS, ICML, ICLR, AISTATS, AAAI (2015 - 2020)   
 
 
