@@ -48,7 +48,7 @@ I'm an Assistant Professor of [Computer Science](https://cs.rutgers.edu) and [Co
 
 ### 2021    
 Structured World Belief for Reinforcement Learning in POMDP  
-Gautam Signh, Skand Peri, Sungjin Ahn  
+Gautam Signh, Skand Peri, Junghyun Kim, Hyunseok Kim, Sungjin Ahn  
 ICML 21   
 
 Generative Video Transformer: Can Objects be the Words?  
