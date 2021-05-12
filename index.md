@@ -61,7 +61,7 @@ ICLR 21 [[pdf](https://openreview.net/pdf?id=RmcPm9m3tnk)]
 
 ROOTS: Object-Centric Representation and Rendering of 3D Scenes      
 {C. Chen, F. Deng}, S. Ahn  
-JMLR 2021, Preprint [[arxiv](https://arxiv.org/abs/2006.06130)] [[project](https://sites.google.com/view/roots3d)] <!--- [[code]()]    -->     
+JMLR 21, Preprint [[arxiv](https://arxiv.org/abs/2006.06130)] [[project](https://sites.google.com/view/roots3d)] <!--- [[code]()]    -->     
 
 ### 2020
 
