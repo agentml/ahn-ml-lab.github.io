@@ -24,6 +24,7 @@ I'm an Assistant Professor of [Computer Science](https://cs.rutgers.edu) and [Co
 
 
 ### **News**
+- "ROOTS: Object-Centric Representation and Rendering for 3D Scenes" is accepted in the Journal of Machine Learning Research  
 - Two papers are accepted in ICML 2021  
 - Invited Talk at DeepMind, Jan 2021  
 - Our paper "Generative Neurosymbolic Machines" is accepted in NeurIPS 2020 as a spotlight!  
