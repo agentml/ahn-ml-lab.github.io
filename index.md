@@ -23,7 +23,7 @@ I'm an Assistant Professor of [Computer Science](https://cs.rutgers.edu) and [Co
 **Address**: CBIM 9, 617 Bowser Rd, Piscataway, NJ 08854  
 
 ### **Research Interest**   
-- Developing deep architectures and probabilistic models for learning world models and represetations of agents in complex environments  
+- Deep architectures and probabilistic models for agents learning world models and represetations in complex environments  
 
 
 ### **News**
