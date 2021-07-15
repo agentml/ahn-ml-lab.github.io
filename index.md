@@ -46,7 +46,7 @@ I have particular emphases on unsupervised and structured learning of world mode
 
 
 ### **Service** 
-- Area Chair - NeurIPS 2021, ICML 2021, AAAI 2020 (Senior Program Committee)  
+- Area Chair - NeurIPS 2021, ICML 2021, AAAI 2021 (Senior Program Committee)  
 - Reviewers - NeurIPS, ICML, ICLR, AISTATS, AAAI (2015 - 2020)   
 
 
@@ -55,11 +55,11 @@ I have particular emphases on unsupervised and structured learning of world mode
 ### 2021    
 Structured World Belief Representations for Reinforcement Learning    
 Gautam Signh, Skand Peri, Junghyun Kim, Hyunseok Kim, Sungjin Ahn  
-ICML 21   
+ICML 21 [[pdf](http://proceedings.mlr.press/v139/singh21a/singh21a.pdf)]    
 
 Generative Video Transformer: Can Objects be the Words?  
 Yi-Fu Wu, Jaesik Yoon, Sungjin Ahn  
-ICML 21  
+ICML 21 [[pdf](http://proceedings.mlr.press/v139/wu21h/wu21h.pdf)]  
 
 Generative Scene Graph Networks  
 F. Deng, Z. Zhi, D. Lee, S. Ahn  
