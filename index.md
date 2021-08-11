@@ -46,7 +46,7 @@ I have particular emphases on unsupervised and structured learning of world mode
 
 
 ### **Service** 
-- Area Chair - NeurIPS 2021, ICML 2021, AAAI 2021 (Senior Program Committee)  
+- Area Chair - NeurIPS 2021, ICML 2021, AAAI (2021,2022)
 - Reviewers - NeurIPS, ICML, ICLR, AISTATS, AAAI (2015 - 2020)   
 
 
