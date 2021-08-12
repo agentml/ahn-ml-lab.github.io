@@ -25,7 +25,7 @@ I have particular emphases on unsupervised and structured learning of world mode
 **Address**: CBIM 9, 617 Bowser Rd, Piscataway, NJ 08854  
 
 ### **Research Interest**   
-- Deep architectures and probabilistic models for agents which learn world models and represetations leading to behaviors achieving goals in complex environments.  
+- Deep architectures and probabilistic models for agents which learn world models and represetations for developing goal-achieving behaviors in complex environments.  
 
 
 ### **News**
