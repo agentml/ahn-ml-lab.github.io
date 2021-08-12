@@ -53,7 +53,7 @@ I have particular emphases on unsupervised and structured learning of world mode
 ### **Publications** / [Google Scholar](https://scholar.google.com/citations?user=nfHyDeUAAAAJ&hl)  
 
 ### 2021    
-Structured World Belief Representations for Reinforcement Learning    
+Structured World Belief for Reinforcement Learning in POMDP             
 Gautam Signh, Skand Peri, Junghyun Kim, Hyunseok Kim, Sungjin Ahn  
 ICML 21 [[pdf](http://proceedings.mlr.press/v139/singh21a/singh21a.pdf)]    
 
