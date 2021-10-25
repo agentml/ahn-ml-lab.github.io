@@ -53,6 +53,10 @@ I have particular emphases on unsupervised and structured learning of world mode
 ### **Publications** / [Google Scholar](https://scholar.google.com/citations?user=nfHyDeUAAAAJ&hl)  
 
 ### 2021    
+Illiterate DALLE Learns to Compose    
+Gautam Singh, Fei Deng, Sungjin Ahn    
+arXiv [[pdf](https://arxiv.org/pdf/2110.11405.pdf)] [[project](https://sites.google.com/view/slate-autoencoder)]  [[code](https://github.com/singhgautam/slate)]     
+
 Structured World Belief for Reinforcement Learning in POMDP             
 Gautam Signh, Skand Peri, Junghyun Kim, Hyunseok Kim, Sungjin Ahn  
 ICML 21 [[pdf](http://proceedings.mlr.press/v139/singh21a/singh21a.pdf)]    
