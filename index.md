@@ -17,16 +17,15 @@ Assistant Professor
 <br> 
 <br>
 <br>
-I'm an Assistant Professor of [Computer Science](https://cs.rutgers.edu) and [Cognitive Science](https://ruccs.rutgers.edu/) at Rutgers University where I lead the [Rutgers Machine Learning Group](./members/) (RUML). My research goal is to solve core machine learning problems to develop general-purpose problem-solver agents. 
-<!--I believe that AI agents should be able to learn representations of the world and their structured relations in a way to support systematic generalization. -->
-I have particular emphases on unsupervised and structured learning of world models and representations using deep learning, probabilistic learning, and reinforcement learning. I also enjoy being inspired from cognitive science and neuroscience in pursuit of finding novel problems and proper inductive biases. I received my Ph.D. at the [University of California, Irvine](https://uci.edu) on the study of scalable approximate Bayesian inference under the supervision of Prof. [Max Welling](https://staff.fnwi.uva.nl/m.welling/). I did my postdoc working on deep learning at [MILA](https://mila.quebec/en/) under Prof. [Yoshua Bengio](https://yoshuabengio.org/). I joined Rutgers University in Fall 2018.
+I'm an Assistant Professor of [Computer Science](https://cs.rutgers.edu) and [Cognitive Science](https://ruccs.rutgers.edu/) at Rutgers University where I lead the [Rutgers Machine Learning Group](./members/) (RUML). My research goal is to develop machine learning algorithms for general-purpose agents such as robots and virtual agents. In pursuing this, I'm particularly interested in learning representations, world models, and policies in an unsupervised and structured (e.g., causal, compositional, temporal, hierarchical) way. The main tools are deep learning, reinforcement learning, and probabilistic learning. I also enjoy being inspired from cognitive science to find novel problems and inductive biases. I received my Ph.D. at the [University of California, Irvine](https://uci.edu) on the study of scalable approximate Bayesian inference under the supervision of Prof. [Max Welling](https://staff.fnwi.uva.nl/m.welling/). I did my postdoc working on deep learning at [MILA](https://mila.quebec/en/) under Prof. [Yoshua Bengio](https://yoshuabengio.org/). I joined Rutgers University in Fall 2018.    
 
 **Email**: sjn.[last_name] at gmail  
 **Address**: CBIM 9, 617 Bowser Rd, Piscataway, NJ 08854  
 
 ### **Research Interest**   
-- Deep architectures and probabilistic models for agents which learn world models and represetations for developing goal-achieving behaviors in complex environments.  
-
+- Machine Learning for General-Purpose Agents and Robots    
+- Learning Representations, World Models, and Policies    
+- Unsupervised and Structured (causal, compositional, temporal, hierarchical) Learning    
 
 ### **News**
 - "ROOTS: Object-Centric Representation and Rendering for 3D Scenes" is accepted in the Journal of Machine Learning Research  
