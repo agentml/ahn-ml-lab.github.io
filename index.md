@@ -27,7 +27,8 @@ I'm an Assistant Professor of [Computer Science](https://cs.rutgers.edu) and [Co
 - Learning Representations, World Models, and Policies    
 - Unsupervised and Structured (causal, compositional, temporal, hierarchical) Learning    
 
-### **News**
+### **News**    
+- I have **no opening for Ph.D and M.S.** students.
 - "ROOTS: Object-Centric Representation and Rendering for 3D Scenes" is accepted in the Journal of Machine Learning Research  
 - Two papers are accepted in ICML 2021  
 - Invited Talk at DeepMind, Jan 2021  
