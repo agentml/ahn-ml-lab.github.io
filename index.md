@@ -9,13 +9,9 @@ layout: home
 
 <p><img class="centered-and-cropped-text-wrap" width="150" height="150" src="./assets/img/profile_rutgers.jpg" alt="Sungjin Ahn" /></p>
 <br>
-Associate Professor  
-[School of Computing](https://cs.kaist.ac.kr)  
-[KAIST](https://kaist.ac.kr)  
-Assistant Professor (on leave)
-[Department of Computer Science](https://cs.rutgers.edu)  
-[Center for Cognitive Science](https://ruccs.rutgers.edu/)  
-[Rutgers University](https://www.rutgers.edu)
+Associate Professor, [School of Computing](https://cs.kaist.ac.kr), [KAIST](https://kaist.ac.kr)   
+    
+Assistant Professor (on leave), [Department of Computer Science](https://cs.rutgers.edu), [Center for Cognitive Science](https://ruccs.rutgers.edu/), [Rutgers University](https://www.rutgers.edu)   
 <!-- 
 Assistant Professor
 [Department of Computer Science](https://cs.rutgers.edu)  
