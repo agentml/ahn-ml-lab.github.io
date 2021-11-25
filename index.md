@@ -11,7 +11,8 @@ layout: home
 <br>
 Associate Professor, [School of Computing](https://cs.kaist.ac.kr), [KAIST](https://kaist.ac.kr)   
     
-Assistant Professor (on leave), [Department of Computer Science](https://cs.rutgers.edu), [Center for Cognitive Science](https://ruccs.rutgers.edu/), [Rutgers University](https://www.rutgers.edu)   
+Assistant Professor (on leave), [Department of Computer Science](https://cs.rutgers.edu)   
+[Center for Cognitive Science](https://ruccs.rutgers.edu/), [Rutgers University](https://www.rutgers.edu)   
 <!-- 
 Assistant Professor
 [Department of Computer Science](https://cs.rutgers.edu)  
