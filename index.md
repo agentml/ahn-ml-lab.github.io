@@ -9,10 +9,11 @@ layout: home
 
 <p><img class="centered-and-cropped-text-wrap" width="150" height="150" src="./assets/img/profile_rutgers.jpg" alt="Sungjin Ahn" /></p>
 <br>
-Associate Professor, [School of Computing](https://cs.kaist.ac.kr), [KAIST](https://kaist.ac.kr)   
-    
-Assistant Professor (on leave), [Department of Computer Science](https://cs.rutgers.edu)   
-[Center for Cognitive Science](https://ruccs.rutgers.edu/), [Rutgers University](https://www.rutgers.edu)   
+Associate Professor  
+[School of Computing](https://cs.kaist.ac.kr)  
+[KAIST](https://kaist.ac.kr)
+<!-- Assistant Professor (on leave), [Department of Computer Science](https://cs.rutgers.edu)   
+[Center for Cognitive Science](https://ruccs.rutgers.edu/), [Rutgers University](https://www.rutgers.edu)    -->
 <!-- 
 Assistant Professor
 [Department of Computer Science](https://cs.rutgers.edu)  
@@ -23,9 +24,7 @@ Assistant Professor
 <br>
 <br>
 
-I'm an associate professor of the [School of Computing](https://cs.kaist.ac.kr) at [KAIST](https://kaist.ac.kr).
-<!-- , an assistant professor of Computer Science at Rutgers University, and affilated with the Rutgers Center for Cognitive Science. -->
-My research interest is to develop machine learning models/algorithms for intelligent agents (e.g., real or virtual robots) in a way to make them more general-purposed like humans. In pursuing this, I'm particularly interested in learning representations, world models, and policies in an unsupervised and structured (e.g., causal, compositional, temporal, hierarchical) way. The main tools are deep learning, reinforcement learning, and probabilistic learning. As such, my research also has some intersection with Cognitive Science as I enjoy being inspired from cognitive science to find novel problems and inductive biases useful in making human-like intelligent machines. I received my Ph.D. at the [University of California, Irvine](https://uci.edu) on the study of scalable approximate Bayesian inference under the supervision of Prof. [Max Welling](https://staff.fnwi.uva.nl/m.welling/). I did my postdoc working on deep learning at [MILA](https://mila.quebec/en/) under Prof. [Yoshua Bengio](https://yoshuabengio.org/). I joined Rutgers University in Fall 2018.    
+I'm an associate professor of the [School of Computing](https://cs.kaist.ac.kr) at [KAIST](https://kaist.ac.kr) and also an assistant professor of Computer Science at Rutgers University, affilated with the Rutgers Center for Cognitive Science. My research interest is to develop machine learning models/algorithms for intelligent agents (e.g., real or virtual robots) in a way to make them more general-purposed like humans. In pursuing this, I'm particularly interested in learning representations, world models, and policies in an unsupervised and structured (e.g., causal, compositional, temporal, hierarchical) way. The main tools are deep learning, reinforcement learning, and probabilistic learning. As such, my research also has some intersection with Cognitive Science as I enjoy being inspired from cognitive science to find novel problems and inductive biases useful in making human-like intelligent machines. I received my Ph.D. at the [University of California, Irvine](https://uci.edu) on the study of scalable approximate Bayesian inference under the supervision of Prof. [Max Welling](https://staff.fnwi.uva.nl/m.welling/). I did my postdoc working on deep learning at [MILA](https://mila.quebec/en/) under Prof. [Yoshua Bengio](https://yoshuabengio.org/). I joined Rutgers University in Fall 2018.    
 
 **Email**: sjn.[last_name] at gmail  
 **Address**: CBIM 9, 617 Bowser Rd, Piscataway, NJ 08854  
