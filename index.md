@@ -35,7 +35,7 @@ I'm an Associate Professor in the [School of Computing](https://cs.kaist.ac.kr) 
 - Unsupervised and Structured (causal, compositional, temporal, hierarchical) Learning    
 
 ### **News**    
-- I have **no opening for Ph.D and M.S.** students at Rutgers University.
+- Co-organizing ICLR 22 Workshop on the Elements of Reasoning: Objects, Structure and Causality. More information will come soon. 
 - "ROOTS: Object-Centric Representation and Rendering for 3D Scenes" is accepted in the Journal of Machine Learning Research  
 - Two papers are accepted in ICML 2021  
 - Invited Talk at DeepMind, Jan 2021  
@@ -53,7 +53,7 @@ I'm an Associate Professor in the [School of Computing](https://cs.kaist.ac.kr) 
 
 
 ### **Service** 
-- Area Chair - NeurIPS 2021, ICML 2021, AAAI (2021,2022)
+- Area Chair - NeurIPS(21), ICML(21,22), AAAI(21,22)
 - Reviewers - NeurIPS, ICML, ICLR, AISTATS, AAAI (2015 - 2020)   
 
 
