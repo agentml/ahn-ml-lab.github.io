@@ -3,10 +3,14 @@ layout: page
 ---
 
 **Ph.D. Program Applicants**
-- I have **no opening for Ph.D.** students.
+- I'm looking for highly motivated Ph.D. student to work with me at KAIST (not at Rutgers). 
 
 **M.S. Program Applicants**
-- I do not reply to MS program applicants contact email. Please contact me after getting the admission.
+- I'm looking for highly motivated M.S. student to work with me at KAIST (not at Rutgers). If you're interested in please send me an email with your CV and transcript attached.
+
+**Undergraduate Research Program**
+- If you're interested in please send me an email with your CV and transcript attached.
+
 
 <!--
 **Research Internship**
