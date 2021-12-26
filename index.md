@@ -34,6 +34,11 @@ I'm an Associate Professor in the [School of Computing](https://cs.kaist.ac.kr) 
 - Learning Representations, World Models, and Policies    
 - Unsupervised and Structured (causal, compositional, temporal, hierarchical) Learning    
 
+
+### **Openings**   
+- I'm looking for highly motivated students in all degree programs, Ph.D., M.S., and Undergraduate. If you're interested in researching on machine learning for intelligent agents, please send me an email with your CV and transcript.      
+
+
 ### **News**    
 - Co-organizing ICLR 22 Workshop on the Elements of Reasoning: Objects, Structure and Causality. More information will come soon. 
 - "ROOTS: Object-Centric Representation and Rendering for 3D Scenes" is accepted in the Journal of Machine Learning Research  
