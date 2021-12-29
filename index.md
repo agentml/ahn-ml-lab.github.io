@@ -27,7 +27,7 @@ Assistant Professor
 I'm an Associate Professor in the [School of Computing](https://cs.kaist.ac.kr) at [KAIST](https://kaist.ac.kr) and also an Assistant Professor of Computer Science at Rutgers University, affilated with the Rutgers Center for Cognitive Science. I lead the [Agent Learning Lab](http://www.sungjinahn.com). My research interest is to develop machine learning models and algorithms in order to make intelligent agents like robots more general-purposed like humans. In pursuing this, I'm particularly interested in learning representations, world models, and policies in interactive, unsupervised, and structured ways (e.g., causal, compositional, temporal, and hierarchical) with the tools of deep learning, reinforcement learning, and probabilistic learning. I also enjoy being inspired from Cognitive Science to discover novel problems and inductive biases useful in making such a human-like intelligent agent. I received my Ph.D. at the [University of California, Irvine](https://uci.edu) on the study of scalable approximate Bayesian inference under the supervision of Prof. [Max Welling](https://staff.fnwi.uva.nl/m.welling/). I did my postdoc working on deep learning at [MILA](https://mila.quebec/en/) under Prof. [Yoshua Bengio](https://yoshuabengio.org/). I joined Rutgers University in Fall 2018.    
 
 **Email**: sjn.[last_name] at gmail  
-**Address**: E3-1 3536, KAIST, 291 Daehak-ro, Yuseong-gu, Daejeon, South Korea
+**Address**: E3-1 Rm:3435, KAIST, 291 Daehak-ro, Yuseong-gu, Daejeon, South Korea
 
 ### **Research Interest**   
 - Machine Learning for General-Purpose Agents and Intelligent Robots    
