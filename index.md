@@ -41,7 +41,7 @@ I'm an Associate Professor in the [School of Computing](https://cs.kaist.ac.kr) 
 
 
 ### **News**    
-- Co-organizing ICLR 22 Workshop on the Elements of Reasoning: Objects, Structure and Causality. More information will come soon. 
+- Co-organizing [ICLR 22 Workshop on the Elements of Reasoning: Objects, Structure and Causality](https://objects-structure-causality.github.io/). 
 - "ROOTS: Object-Centric Representation and Rendering for 3D Scenes" is accepted in the Journal of Machine Learning Research  
 - Two papers are accepted in ICML 2021  
 - Invited Talk at DeepMind, Jan 2021  
