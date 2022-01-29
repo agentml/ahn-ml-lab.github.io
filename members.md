@@ -17,7 +17,7 @@ layout: page
 - Chang Chen (Rutgers)    
 - [Yi-Fu Wu](http://www.yifuwu.com/) (Rutgers)  
 - [Jindong Jiang](https://www.jindongjiang.me/) (Rutgers)  
-- [Jaesik Yoon](https://sites.google.com/view/jaesikyoon/home)    
+- [Jaesik Yoon](https://sites.google.com/view/jaesikyoon/home) (On Leave)       
 - Ngoc Quang Nguyen (KAIST)
 
 
