@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<h4 style="text-align: center">Rutgers Machine Learning Group</h4>
+<h4 style="text-align: center">Agent and Machine Learning Lab</h4>
 
 <!--#### Rutgers Machinne Learning Group-->
 
@@ -12,23 +12,23 @@ layout: page
 <!--### Current Members-->
 **PhD students**
 
-- [Gautam Singh](http://singhgautam.github.io/)  
-- Fei Deng  
-- Chang Chen  
-- [Yi-Fu Wu](http://www.yifuwu.com/)  
-- [Jindong Jiang](https://www.jindongjiang.me/)
+- [Gautam Singh](http://singhgautam.github.io/) (Rutgers)    
+- Fei Deng (Rutgers)    
+- Chang Chen (Rutgers)    
+- [Yi-Fu Wu](http://www.yifuwu.com/) (Rutgers)  
+- [Jindong Jiang](https://www.jindongjiang.me/) (Rutgers)  
+- [Jaesik Yoon](https://sites.google.com/view/jaesikyoon/home)    
+- Ngoc Quang Nguyen (KAIST)
 
 
 **MS students**  
-- Junghyun Kim  
+- Minseung Lee (KAIST)  
+- Youngbin Kim (KAIST)  
 
-**Intern and visiting students** 
+<!-- **Intern and visiting students**  -->
 
-- Skand Vishwanath Peri (Jun. 2019 ~ )
-- Bofeng Fu
 
-**External collaborator**  
-- [Jaesik Yoon](https://sites.google.com/view/jaesikyoon/home)  
+<!-- **External collaborator**   -->
 
 
 <!--
@@ -37,6 +37,9 @@ layout: page
 -->
 
 **Past members**  
+- Skand Vishwanath Peri (Jun. 2019 ~ 2021)  
+- Bofeng Fu   
+- Junghyun Kim       
 - [Zhixuan Lin](https://www.zhixuanlin.com/) (Aug. 2019 ~)  
 - Weihao Sun (MS)
 - Zhuo Zhi (Intern)  
