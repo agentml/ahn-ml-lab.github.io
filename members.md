@@ -37,10 +37,10 @@ layout: page
 -->
 
 **Past members**  
-- Skand Vishwanath Peri (Jun. 2019 ~ 2021)  
+- Skand Vishwanath Peri  
 - Bofeng Fu   
 - Junghyun Kim       
-- [Zhixuan Lin](https://www.zhixuanlin.com/) (Aug. 2019 ~)  
+- [Zhixuan Lin](https://www.zhixuanlin.com/)     
 - Weihao Sun (MS)
 - Zhuo Zhi (Intern)  
 - Taesup Kim (Visiting Ph.D. student from MILA)  
