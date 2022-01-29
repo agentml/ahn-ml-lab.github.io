@@ -37,10 +37,10 @@ layout: page
 -->
 
 **Past members**  
-- Skand Vishwanath Peri  
-- Bofeng Fu   
-- Junghyun Kim       
-- [Zhixuan Lin](https://www.zhixuanlin.com/)     
+- Skand Vishwanath Peri (Intern)    
+- Bofeng Fu (Intern)       
+- Junghyun Kim (MS)          
+- [Zhixuan Lin](https://www.zhixuanlin.com/) (Intern)        
 - Weihao Sun (MS)
 - Zhuo Zhi (Intern)  
 - Taesup Kim (Visiting Ph.D. student from MILA)  
