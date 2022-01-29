@@ -23,7 +23,7 @@ layout: page
 
 **MS students**  
 - Minseung Lee (KAIST)  
-- Youngbin Kim (KAIST)  
+- Yeongbin Kim (KAIST)  
 
 <!-- **Intern and visiting students**  -->
 
