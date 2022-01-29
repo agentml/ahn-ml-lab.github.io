@@ -1,12 +1,13 @@
 ---
 layout: page
 ---
-S-2021, CS 536: Machine Learning   
+KAIST   S-2022, CS 376: Machine Learning    
+Rutgers S-2021, CS 536: Machine Learning   
 <!-- S-2021, CS 536: [Machine Learning](https://hackmd.io/@sungjin/BkFfrDipD)   -->
-F-2020, CS 444: Deep Learning     
+Rutgers F-2020, CS 444: Deep Learning     
 <!-- F-2020, CS 444: [Deep Learning](https://hackmd.io/@Tn97A1U0QG6gBtFPXRh4oQ/rkkT1AT_I)   -->
-S-2020, CS 536: Machine Learning   
+Rutgers S-2020, CS 536: Machine Learning   
 <!--(https://hackmd.io/@Tn97A1U0QG6gBtFPXRh4oQ/B1sZLO55r)-->
-F-2019, CS 535: Pattern Recognition    
+Rutgers F-2019, CS 535: Pattern Recognition    
 <!--(https://hackmd.io/@Tn97A1U0QG6gBtFPXRh4oQ/SyMY1ZL5H)-->
-S-2019, CS 671: Probabilistic Agent Learning  
+Rutgers S-2019, CS 671: Probabilistic Agent Learning  
