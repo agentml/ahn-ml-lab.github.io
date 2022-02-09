@@ -31,7 +31,7 @@ I'm an Associate Professor in the [School of Computing](https://cs.kaist.ac.kr) 
 **Address**: E3-1 Rm:3435, KAIST, 291 Daehak-ro, Yuseong-gu, Daejeon, South Korea
 
 ### **Research Interest**   
-- Machine Learning for General-Purpose Agents and Intelligent Robots    
+- Machine Learning for Agents and Robots    
 - Learning Representations, World Models, and Policies    
 - Unsupervised and Structured (causal, compositional, temporal, hierarchical) Learning    
 
