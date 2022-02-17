@@ -12,7 +12,7 @@ layout: home
 Associate Professor  
 School of Computing   
 Graduate School of AI     
-Center for Neuroscience-inspired Artificial Intelligence    
+Center for Neuroscience-inspired AI
 KAIST
 <!-- Assistant Professor (on leave), [Department of Computer Science](https://cs.rutgers.edu)   
 [Center for Cognitive Science](https://ruccs.rutgers.edu/), [Rutgers University](https://www.rutgers.edu)    -->
