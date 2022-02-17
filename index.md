@@ -9,7 +9,8 @@ layout: home
 
 <p><img class="centered-and-cropped-text-wrap" width="150" height="150" src="./assets/img/profile_rutgers.jpg" alt="Sungjin Ahn" /></p>
 <br>
-Associate Professor  
+Associate Professor   
+  
 School of Computing   
 Graduate School of AI     
 Center for Neuroscience-inspired AI    
