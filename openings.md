@@ -6,7 +6,7 @@ layout: page
 - I'm looking for highly motivated Ph.D. student to work with me at KAIST (not at Rutgers). 
 
 **M.S. Program Applicants**
-- I'm looking for highly motivated M.S. student to work with me at KAIST (not at Rutgers). If you're interested in please send me an email with your CV and transcript attached.
+- I'm looking for highly motivated M.S. student to work with me at KAIST (not at Rutgers). If you're interested in please send me an email with your CV and transcript attached. 
 
 **Undergraduate Research Program**
 - If you're interested in please send me an email with your CV and transcript attached.
