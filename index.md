@@ -13,7 +13,6 @@ Associate Professor
   
 School of Computing   
 Graduate School of AI     
-Center for Neuroscience-inspired AI    
 KAIST
 <!-- Assistant Professor (on leave), [Department of Computer Science](https://cs.rutgers.edu)   
 [Center for Cognitive Science](https://ruccs.rutgers.edu/), [Rutgers University](https://www.rutgers.edu)    -->
@@ -62,6 +61,7 @@ I'm an Associate Professor in the [School of Computing](https://cs.kaist.ac.kr) 
 
 
 ### **Service** 
+- Organizing Committee - NeurIPS 2022 (Workshop Chair)  
 - Area Chair - NeurIPS(21), ICML(21,22), AAAI(21,22)
 - Reviewers - NeurIPS, ICML, ICLR, AISTATS, AAAI (2015 - 2020)   
 
