@@ -41,6 +41,8 @@ I'm an Associate Professor in the [School of Computing](https://cs.kaist.ac.kr) 
 ### **Openings**   
 - I'm looking for highly motivated students in all degree programs, Ph.D., M.S., and Undergraduate. If you're interested in researching on machine learning for intelligent agents, please send me an email with your CV and transcript.      
 
+### **Media**    
+- [Rutgers University’s AI Researchers Propose A Slot-Based Autoencoder Architecture, Called SLot Attention TransformEr (SLATE)](https://www.marktechpost.com/2021/10/26/rutgers-universitys-ai-researchers-propose-a-slot-based-autoencoder-architecture-called-slot-attention-transformer-slate/)   
 
 ### **News**    
 - Co-organizing [ICLR 22 Workshop on the Elements of Reasoning: Objects, Structure and Causality](https://objects-structure-causality.github.io/). 
