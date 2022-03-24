@@ -26,23 +26,19 @@ Assistant Professor
 <br>
 <br>
 
-I'm an Associate Professor in the [School of Computing](https://cs.kaist.ac.kr) at [KAIST](https://kaist.ac.kr) and also an Assistant Professor of Computer Science at Rutgers University, affiliated with the Rutgers Center for Cognitive Science. I lead the [Agent and Machine Learning Lab](http://www.sungjinahn.com) at KAIST and Rutgers. My research interest is to develop machine learning algorithms to make human-like general-purpose intelligent agents. In pursuing this, I'm particularly interested in learning representations, world models, and policies in interactive, self-supervised, and structured ways (e.g., causal, compositional, temporal, and hierarchical) with the tools of deep learning, reinforcement learning, and probabilistic learning. I also enjoy being inspired by Cognitive Science to discover novel problems and inductive biases. I received my Ph.D. at the [University of California, Irvine](https://uci.edu) on the study of scalable approximate Bayesian inference under the supervision of Prof. [Max Welling](https://staff.fnwi.uva.nl/m.welling/). I did my postdoc working on deep learning at [MILA](https://mila.quebec/en/) under Prof. [Yoshua Bengio](https://yoshuabengio.org/). 
+I'm an Associate Professor in the [School of Computing](https://cs.kaist.ac.kr) at [KAIST](https://kaist.ac.kr) and also an Assistant Professor of Computer Science at Rutgers University, affiliated with the Rutgers Center for Cognitive Science. I lead the [Agent and Machine Learning Lab](http://www.sungjinahn.com) at KAIST and Rutgers. My research interest is to develop machine learning algorithms to make human-like general-purpose  agents such as robots. In pursuing this, I'm particularly interested in learning representations, world models, and policies in interactive, self-supervised, and structured ways (e.g., causal, compositional, temporal, and hierarchical) with the tools of deep learning, reinforcement learning, and probabilistic learning. I also enjoy being inspired by Cognitive Science to discover novel problems and inductive biases. I received my Ph.D. at the [University of California, Irvine](https://uci.edu) on the study of scalable approximate Bayesian inference under the supervision of Prof. [Max Welling](https://staff.fnwi.uva.nl/m.welling/). I did my postdoc working on deep learning at [MILA](https://mila.quebec/en/) under Prof. [Yoshua Bengio](https://yoshuabengio.org/). 
 
 
 **Email**: sjn.[last_name] at gmail  
 **Address**: E3-1 Rm:3435, KAIST, 291 Daehak-ro, Yuseong-gu, Daejeon, South Korea
 
 ### **Research Interest**   
-- Machine Learning for Agents and Robots    
-- Learning Representations, World Models, and Policies    
-- Unsupervised and Structured (causal, compositional, temporal, hierarchical) Learning    
+- Reinforcement learning, representation learning, world models     
+- Applications: robot learning, virtual agent learning    
 
 
 ### **Openings**   
 - I'm looking for highly motivated students in all degree programs, Ph.D., M.S., and Undergraduate. If you're interested in researching on machine learning for intelligent agents, please send me an email with your CV and transcript.      
-
-### **Media**    
-- [Rutgers University’s AI Researchers Propose A Slot-Based Autoencoder Architecture, Called SLot Attention TransformEr (SLATE)](https://www.marktechpost.com/2021/10/26/rutgers-universitys-ai-researchers-propose-a-slot-based-autoencoder-architecture-called-slot-attention-transformer-slate/)   
 
 ### **News**    
 - Co-organizing [ICLR 22 Workshop on the Elements of Reasoning: Objects, Structure and Causality](https://objects-structure-causality.github.io/). 
@@ -61,6 +57,9 @@ I'm an Associate Professor in the [School of Computing](https://cs.kaist.ac.kr) 
 <!--- A paper on Single-View 3D Learning with Adversarial Training is accepted to ICCV 2019 as an oral presentation-->
 <!--- New paper on Sequential Neural Processes is in arXiv-->
 
+### **Media**    
+- Mar/24/22 [세계 권위 AI 학회 '뉴립스'에 한국인 연구자 4명 조직위원 선임](http://www.aitimes.com/news/articleView.html?idxno=143596)   
+- Oct/26/21 [Rutgers University’s AI Researchers Propose A Slot-Based Autoencoder Architecture, Called SLot Attention TransformEr (SLATE)](https://www.marktechpost.com/2021/10/26/rutgers-universitys-ai-researchers-propose-a-slot-based-autoencoder-architecture-called-slot-attention-transformer-slate/)   
 
 ### **Service** 
 - Organizing Committee - NeurIPS 2022 (Workshop Chair)  
