@@ -38,7 +38,7 @@ I'm an Associate Professor in the [School of Computing](https://cs.kaist.ac.kr) 
 
 
 ### **Openings**   
-- Undergraduate Internship: https://ajar-beryl-16a.notion.site/087db997ec8a44468565ebdd212ccbfa     
+- [Undergraduate Internship](https://ajar-beryl-16a.notion.site/087db997ec8a44468565ebdd212ccbfa)     
 - I'm looking for highly motivated students in all degree programs, Ph.D., M.S., and Undergraduate. If you're interested in researching on machine learning for intelligent agents, please send me an email with your CV and transcript.      
 
 ### **News**    
