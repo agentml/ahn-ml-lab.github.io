@@ -64,8 +64,8 @@ I'm an Associate Professor in the [School of Computing](https://cs.kaist.ac.kr) 
 
 ### **Service** 
 - Organizing Committee - NeurIPS 2022 (Workshop Chair)  
-- Area Chair - NeurIPS(21), ICML(21,22), AAAI(21,22)
-- Reviewers - NeurIPS, ICML, ICLR, AISTATS, AAAI (2015 - 2020)   
+- Area Chair - NeurIPS(2021, 2022), ICML(2021,2022), AAAI(2021,2022)
+- Reviewers - NeurIPS (2015-2020), ICML(2015-2020), ICLR(2015-2022), AISTATS(2015 - 2020), AAAI(2015 - 2020)   
 
 
 ### **Publications** / [Google Scholar](https://scholar.google.com/citations?user=nfHyDeUAAAAJ&hl)  
