@@ -10,20 +10,24 @@ layout: page
 - [Sungjin Ahn](../index)
 
 <!--### Current Members-->
-**PhD students**
-
-- [Gautam Singh](http://singhgautam.github.io/) (Rutgers)    
-- Fei Deng (Rutgers)    
-- Chang Chen (Rutgers)    
-- [Yi-Fu Wu](http://www.yifuwu.com/) (Rutgers)  
-- [Jindong Jiang](https://www.jindongjiang.me/) (Rutgers)  
-- [Jaesik Yoon](https://sites.google.com/view/jaesikyoon/home) (On Leave)       
-- Ngoc Quang Nguyen (KAIST)
+**PhD students**   
+- Ngoc Quang Nguyen (KAIST)    
 
 
-**MS students**  
+**MS students**    
 - Minseung Lee (KAIST)  
 - Yeongbin Kim (KAIST)  
+
+
+**PhD Students (at Rutgers)**    
+- [Gautam Singh](http://singhgautam.github.io/)   
+- Fei Deng        
+- Chang Chen       
+- [Yi-Fu Wu](http://www.yifuwu.com/)      
+- [Jindong Jiang](https://www.jindongjiang.me/)    
+- (On Leave) [Jaesik Yoon](https://sites.google.com/view/jaesikyoon/home) 
+
+
 
 <!-- **Intern and visiting students**  -->
 
