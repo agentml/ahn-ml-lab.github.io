@@ -34,7 +34,7 @@ I'm an Associate Professor in the [School of Computing](https://cs.kaist.ac.kr) 
 
 ### **Research Interest**   
 - Reinforcement learning, representation learning, world models     
-- Applications: robot learning, virtual agent learning    
+- Applications: robot learning, virtual agent learning (game AI)
 
 
 ### **Openings**   
