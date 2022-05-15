@@ -73,6 +73,10 @@ I'm an Associate Professor in the [School of Computing](https://cs.kaist.ac.kr) 
 
 ### 2022    
 
+DreamerPro: Reconstruction-Free Model-Based Reinforcement Learning with Prototypical Representations      
+Fei Deng, Ingook Jang, Sungjin Ahn      
+ICML 22 [[arXiv](https://arxiv.org/abs/2110.14565)]       
+
 Illiterate DALLE Learns to Compose    
 Gautam Singh, Fei Deng, Sungjin Ahn    
 ICLR 22 [[pdf](https://arxiv.org/pdf/2110.11405.pdf)] [[project](https://sites.google.com/view/slate-autoencoder)]  [[code](https://github.com/singhgautam/slate)] 
