@@ -73,6 +73,10 @@ I'm an Associate Professor in the [School of Computing](https://cs.kaist.ac.kr) 
 
 ### 2022    
 
+Simple Unsupervised Object-Centric Learning for Complex and Naturalistic Videos  
+Gautam Singh, Yi-Fu Wu, Sungjin Ahn    
+arXiv [[pdf](https://arxiv.org/pdf/2205.14065.pdf)] [[project](https://sites.google.com/view/slot-transformer-for-videos)]    
+
 DreamerPro: Reconstruction-Free Model-Based Reinforcement Learning with Prototypical Representations      
 Fei Deng, Ingook Jang, Sungjin Ahn      
 ICML 22 [[arXiv](https://arxiv.org/abs/2110.14565)]       
